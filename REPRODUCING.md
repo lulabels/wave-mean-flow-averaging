@@ -6,8 +6,7 @@ Instructions for the code accompanying “A unifying view of averaging for wave�
 
 The full Zenodo ZIP includes `data/fig7_8_rsw_products.npz` (about 96 MiB). This file is omitted from GitHub because it exceeds GitHub's browser-upload limit.
 
-**Archive status:** Zenodo DOI `10.5281/zenodo.23825819` is reserved; the archive has not yet been published. After publication, download the full code ZIP from https://doi.org/10.5281/zenodo.23825819 and either use that complete bundle or copy its `data/fig7_8_rsw_products.npz` into the `data/` folder of your GitHub download.
-
+Download the full code ZIP from the [Zenodo archive](https://doi.org/10.5281/zenodo.23825819). You can use that complete bundle or copy its `data/fig7_8_rsw_products.npz` into the `data/` folder of your GitHub download.
 Add this file before running the full numerical test suite or reproducing Figures 7–8. Its SHA-256 checksum, also recorded in `data/checksums.json`, is:
 
 ```text
