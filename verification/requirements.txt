@@ -1,0 +1,3 @@
+# Optional dependencies for the calculus and algebra verification scripts.
+sympy==1.14.0
+mpmath==1.3.0
