@@ -1,0 +1,10 @@
+/outputs/*
+/work/*
+/data/external/*
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+
+# Included in the full Zenodo ZIP; downloaded separately for GitHub.
+/data/fig7_8_rsw_products.npz

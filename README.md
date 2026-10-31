@@ -19,10 +19,12 @@ This repository provides:
 
 See [Installation and reproduction](REPRODUCING.md) for dependencies, commands and details of the included data. Figure 1 is supplied as an editable SVG; Figure 9 uses an additional download from Baker et al.
 
+The large Figures 7–8 data file must be added separately to GitHub downloads; see [the data instructions](REPRODUCING.md#figure-data).
+
 ## Citation
 
 Please cite this code deposit and the accompanying paper when using these materials. The code author is L. R. Seitz.
 
 ## License
 
-The original software uses the [MIT License](https://opensource.org/license/mit). The included original data and artwork use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Third-party materials retain their own licenses.
+The original software uses the [MIT License](LICENSE). The included original data and artwork use [CC BY 4.0](LICENSE-DATA.md). Third-party materials retain their own licenses.
