@@ -21,10 +21,6 @@ See [Installation and reproduction](REPRODUCING.md) for dependencies, commands a
 
 The large Figures 7–8 data file must be added separately to GitHub downloads; see [the data instructions](REPRODUCING.md#figure-data).
 
-## Citation
-
-Please cite this code deposit and the accompanying paper when using these materials. The code author is L. R. Seitz.
-
 ## License
 
 The original software uses the [MIT License](LICENSE). The included original data and artwork use [CC BY 4.0](LICENSE-DATA.md). Third-party materials retain their own licenses.
