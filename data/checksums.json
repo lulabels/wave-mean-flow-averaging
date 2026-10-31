@@ -1,0 +1,24 @@
+{
+  "figure_inputs": {
+    "fig2_rsw_fields.npz": "93b9c4606ce06fa2e85c69fc27a4282ae1869b2999e048c8a6274784833ffecc",
+    "fig7_8_rsw_products.npz": "628f66d402335c3427b6c44134e815f7ed8504b92a8e11e29a627d7c7fed8a50",
+    "fig8_forcing_boxcar.csv": "5bc8ca650453fdc2dfe8df3724e4ec4fae56b9bdb81c29dfa15607da67e3cb6f",
+    "fig8_forcing_bump.csv": "734eaec9a61666c2df2603953cc1f15c75e5ccb87af9de4719fbb44b809823f2",
+    "fig9_projection_N256.npz": "df24a77d1b52aa65d8823a65fd9387a9aa6fcddc437e9cf3c643b6d1c60117d5",
+    "fig7_8_refinement.json": "76dcc50ad81beab2af31b412b3968eb6bdf167a682800df32173c5a8f9cd7a48",
+    "graphical_abstract_fields.npz": "b64080915c8956e050060bb27c698abb22fdd4ecd8eaf9a95bb21b5c753ff288",
+    "graphical_abstract_reference.json": "ee149c41e4b0940facf23eafa47ee751d61c044b9f423cc03d03c7b2ac66e9ec"
+  },
+  "external_baker_input": {
+    "doi": "10.5281/zenodo.14237745",
+    "record_version": "2.0",
+    "archive": "data.zip",
+    "archive_md5": "1bd4abf8c6f4e60d345216bcceb527b2",
+    "archive_sha256": "879c7d008607f6c3e9b96449a714c2a20d04dabfe68c4af3c2bc4935d48189b9",
+    "required_member": "solver_lowpass_x_y_omega_2_Nint_1_strat_3_T_40.nc",
+    "required_member_sha256": "3519bbfb89a4893f6605458b43e38f5bafed3537cc9900b6e8742a25ba2f4266"
+  },
+  "artwork_inputs": {
+    "figures/figure1.svg": "24df30e6923e62571c6143dc07746410ee510c996ea3f02aeb4c7684beb82988"
+  }
+}

@@ -1,0 +1,4 @@
+window_length,interaction_count,window_name,rhs_exact_strict_unweighted_l2_fraction_of_finite_total,rhs_finite_sideband_same_branch_slow_wave_to_wave_weighted_l2_fraction_of_finite_total,rhs_finite_high_detuning_ge_4_over_T_weighted_l2_fraction_of_finite_total
+0.5,51941763,bump,5.990725307196846e-09,0.8817470938080453,0.26170933130480123
+1.0,51941763,bump,6.3043194642172146e-09,0.9269159312911793,0.11271663510655397
+2.0,51941763,bump,6.38848610098282e-09,0.9353376792773969,0.045749536405810726

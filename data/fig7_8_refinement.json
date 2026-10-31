@@ -1,0 +1,3120 @@
+{
+  "comparisons": {
+    "comparison_quadrature_N512_dense": {
+      "changed_factors": {
+        "quadrature": [
+          "legacy",
+          "trapezoid"
+        ]
+      },
+      "fields": {
+        "t3_balanced": {
+          "reference_unresolved_rms_fraction": 2.413199368345671e-16,
+          "relative_rms_including_unresolved_modes": 3.4127792754246337e-16,
+          "relative_rms_restricted": 2.41319936834567e-16
+        },
+        "t3_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.1353864886810012e-09,
+          "relative_rms_including_unresolved_modes": 0.0012798658365660899,
+          "relative_rms_restricted": 0.0012798658365643083
+        },
+        "t3_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.191718689635468e-16,
+          "relative_rms_including_unresolved_modes": 4.911161440089693e-05,
+          "relative_rms_restricted": 4.9111614400896944e-05
+        },
+        "t3_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5474591487655703e-09,
+          "relative_rms_including_unresolved_modes": 0.0016038725615746667,
+          "relative_rms_restricted": 0.0016038725615739207
+        },
+        "t3_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.1567689737478285e-16,
+          "relative_rms_including_unresolved_modes": 4.0338625992900764e-05,
+          "relative_rms_restricted": 4.033862599290075e-05
+        },
+        "t3_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.1048741442144862e-09,
+          "relative_rms_including_unresolved_modes": 0.0006279982739340711,
+          "relative_rms_restricted": 0.0006279982739330991
+        },
+        "t3_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.1616786973506549e-16,
+          "relative_rms_including_unresolved_modes": 4.7583582014837314e-05,
+          "relative_rms_restricted": 4.75835820148373e-05
+        },
+        "t3_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.4737315281365704e-09,
+          "relative_rms_including_unresolved_modes": 3.4983846767606592e-09,
+          "relative_rms_restricted": 2.47373152813657e-09
+        },
+        "t3_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.1477695512299443e-16,
+          "relative_rms_including_unresolved_modes": 3.0374048282013636e-16,
+          "relative_rms_restricted": 2.147769551229945e-16
+        },
+        "t3_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.775919022613575e-09,
+          "relative_rms_including_unresolved_modes": 2.5115287674564887e-09,
+          "relative_rms_restricted": 1.7759190226135745e-09
+        },
+        "t3_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.264414795269381e-16,
+          "relative_rms_including_unresolved_modes": 3.2023661143082533e-16,
+          "relative_rms_restricted": 2.264414795269381e-16
+        },
+        "t3_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.2840619918573706e-09,
+          "relative_rms_including_unresolved_modes": 1.8159378838125045e-09,
+          "relative_rms_restricted": 1.2840619918573712e-09
+        },
+        "t3_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2381876112650134e-16,
+          "relative_rms_including_unresolved_modes": 3.165275274986423e-16,
+          "relative_rms_restricted": 2.238187611265013e-16
+        },
+        "t3_instant": {
+          "reference_unresolved_rms_fraction": 1.8910278602771794e-08,
+          "relative_rms_including_unresolved_modes": 2.674317246829361e-08,
+          "relative_rms_restricted": 1.8910278602771788e-08
+        },
+        "t8_balanced": {
+          "reference_unresolved_rms_fraction": 2.5265466056982596e-16,
+          "relative_rms_including_unresolved_modes": 3.5730764757461876e-16,
+          "relative_rms_restricted": 2.5265466056982596e-16
+        },
+        "t8_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.1737232313034554e-09,
+          "relative_rms_including_unresolved_modes": 0.0017847650643594806,
+          "relative_rms_restricted": 0.0017847650643581575
+        },
+        "t8_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2318454408051786e-16,
+          "relative_rms_including_unresolved_modes": 0.0003550684183567066,
+          "relative_rms_restricted": 0.00035506841835670653
+        },
+        "t8_boxcar_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.2929264895227158e-09,
+          "relative_rms_including_unresolved_modes": 0.0012829629774557736,
+          "relative_rms_restricted": 0.0012829629774551224
+        },
+        "t8_boxcar_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.387611674457299e-16,
+          "relative_rms_including_unresolved_modes": 0.00017646192439176755,
+          "relative_rms_restricted": 0.00017646192439176758
+        },
+        "t8_boxcar_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.02602270177982e-10,
+          "relative_rms_including_unresolved_modes": 0.00014847785765020543,
+          "relative_rms_restricted": 0.00014847785764935477
+        },
+        "t8_boxcar_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.2086156091174393e-16,
+          "relative_rms_including_unresolved_modes": 8.910731976592359e-05,
+          "relative_rms_restricted": 8.910731976592362e-05
+        },
+        "t8_boxcar_T12_lab": {
+          "reference_unresolved_rms_fraction": 4.578591889202339e-10,
+          "relative_rms_including_unresolved_modes": 9.273724762278646e-05,
+          "relative_rms_restricted": 9.273724762165619e-05
+        },
+        "t8_boxcar_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.192148963743738e-16,
+          "relative_rms_including_unresolved_modes": 8.062159180016829e-05,
+          "relative_rms_restricted": 8.062159180016826e-05
+        },
+        "t8_boxcar_T16_lab": {
+          "reference_unresolved_rms_fraction": 3.967739062335908e-10,
+          "relative_rms_including_unresolved_modes": 9.134823734021983e-05,
+          "relative_rms_restricted": 9.134823733935813e-05
+        },
+        "t8_boxcar_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.1881840889468778e-16,
+          "relative_rms_including_unresolved_modes": 6.832158735456582e-05,
+          "relative_rms_restricted": 6.832158735456581e-05
+        },
+        "t8_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5709276170019161e-09,
+          "relative_rms_including_unresolved_modes": 0.0015735396100397831,
+          "relative_rms_restricted": 0.0015735396100389988
+        },
+        "t8_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.351522037893187e-16,
+          "relative_rms_including_unresolved_modes": 0.00022076541353862488,
+          "relative_rms_restricted": 0.00022076541353862486
+        },
+        "t8_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.120130904246238e-09,
+          "relative_rms_including_unresolved_modes": 0.0006229836547353097,
+          "relative_rms_restricted": 0.0006229836547343028
+        },
+        "t8_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2329152430344006e-16,
+          "relative_rms_including_unresolved_modes": 0.00014999074840886807,
+          "relative_rms_restricted": 0.0001499907484088681
+        },
+        "t8_boxcar_T3_lab": {
+          "reference_unresolved_rms_fraction": 9.161672800492082e-10,
+          "relative_rms_including_unresolved_modes": 0.0005362676136805945,
+          "relative_rms_restricted": 0.0005362676136798119
+        },
+        "t8_boxcar_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.4182082643924404e-16,
+          "relative_rms_including_unresolved_modes": 0.00012707791298831292,
+          "relative_rms_restricted": 0.0001270779129883129
+        },
+        "t8_boxcar_T4_lab": {
+          "reference_unresolved_rms_fraction": 7.948951612528339e-10,
+          "relative_rms_including_unresolved_modes": 0.00033033306310596716,
+          "relative_rms_restricted": 0.0003303330631050108
+        },
+        "t8_boxcar_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.331136594580309e-16,
+          "relative_rms_including_unresolved_modes": 0.00011326339746692586,
+          "relative_rms_restricted": 0.00011326339746692586
+        },
+        "t8_boxcar_T6_lab": {
+          "reference_unresolved_rms_fraction": 6.488480746873955e-10,
+          "relative_rms_including_unresolved_modes": 0.0002387880543101478,
+          "relative_rms_restricted": 0.0002387880543092662
+        },
+        "t8_boxcar_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.221329323211261e-16,
+          "relative_rms_including_unresolved_modes": 0.00010399201880930747,
+          "relative_rms_restricted": 0.00010399201880930745
+        },
+        "t8_boxcar_T8_lab": {
+          "reference_unresolved_rms_fraction": 5.631190776161874e-10,
+          "relative_rms_including_unresolved_modes": 0.00018773522189765953,
+          "relative_rms_restricted": 0.00018773522189681496
+        },
+        "t8_boxcar_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.4303740345812573e-16,
+          "relative_rms_including_unresolved_modes": 9.723060778560509e-05,
+          "relative_rms_restricted": 9.72306077856051e-05
+        },
+        "t8_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.518174682980097e-09,
+          "relative_rms_including_unresolved_modes": 3.561236789095023e-09,
+          "relative_rms_restricted": 2.518174682980098e-09
+        },
+        "t8_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2491020751177084e-16,
+          "relative_rms_including_unresolved_modes": 3.1807106577929347e-16,
+          "relative_rms_restricted": 2.249102075117708e-16
+        },
+        "t8_bump_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.4933760460737962e-09,
+          "relative_rms_including_unresolved_modes": 2.1119526580806707e-09,
+          "relative_rms_restricted": 1.4933760460737964e-09
+        },
+        "t8_bump_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.239488791844528e-16,
+          "relative_rms_including_unresolved_modes": 3.167115422209068e-16,
+          "relative_rms_restricted": 2.2394887918445284e-16
+        },
+        "t8_bump_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.846281153193172e-10,
+          "relative_rms_including_unresolved_modes": 8.267890096292002e-10,
+          "relative_rms_restricted": 5.846281153193171e-10
+        },
+        "t8_bump_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.2817519490643885e-16,
+          "relative_rms_including_unresolved_modes": 3.226884552338102e-16,
+          "relative_rms_restricted": 2.2817519490643885e-16
+        },
+        "t8_bump_T12_lab": {
+          "reference_unresolved_rms_fraction": 5.336193421340468e-10,
+          "relative_rms_including_unresolved_modes": 7.546517107905777e-10,
+          "relative_rms_restricted": 5.336193421340468e-10
+        },
+        "t8_bump_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.4305296553630677e-16,
+          "relative_rms_including_unresolved_modes": 3.437288002364455e-16,
+          "relative_rms_restricted": 2.4305296553630677e-16
+        },
+        "t8_bump_T16_lab": {
+          "reference_unresolved_rms_fraction": 4.6145699289176387e-10,
+          "relative_rms_including_unresolved_modes": 6.525987377994374e-10,
+          "relative_rms_restricted": 4.614569928917638e-10
+        },
+        "t8_bump_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.184951489936149e-16,
+          "relative_rms_including_unresolved_modes": 3.0899880301950037e-16,
+          "relative_rms_restricted": 2.184951489936149e-16
+        },
+        "t8_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.806703585999846e-09,
+          "relative_rms_including_unresolved_modes": 2.555064714509088e-09,
+          "relative_rms_restricted": 1.806703585999846e-09
+        },
+        "t8_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.1467991567807953e-16,
+          "relative_rms_including_unresolved_modes": 3.036032483210525e-16,
+          "relative_rms_restricted": 2.1467991567807948e-16
+        },
+        "t8_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.3010338251566657e-09,
+          "relative_rms_including_unresolved_modes": 1.8399396806427024e-09,
+          "relative_rms_restricted": 1.3010338251566657e-09
+        },
+        "t8_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.1520283651263535e-16,
+          "relative_rms_including_unresolved_modes": 3.0434277005732886e-16,
+          "relative_rms_restricted": 2.152028365126354e-16
+        },
+        "t8_bump_T3_lab": {
+          "reference_unresolved_rms_fraction": 1.064534722913237e-09,
+          "relative_rms_including_unresolved_modes": 1.5054794427609846e-09,
+          "relative_rms_restricted": 1.064534722913237e-09
+        },
+        "t8_bump_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.297912048850689e-16,
+          "relative_rms_including_unresolved_modes": 3.24973838462519e-16,
+          "relative_rms_restricted": 2.2979120488506885e-16
+        },
+        "t8_bump_T4_lab": {
+          "reference_unresolved_rms_fraction": 9.223791607310101e-10,
+          "relative_rms_including_unresolved_modes": 1.3044411187561074e-09,
+          "relative_rms_restricted": 9.223791607310098e-10
+        },
+        "t8_bump_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.2592825994764687e-16,
+          "relative_rms_including_unresolved_modes": 3.1951080934131637e-16,
+          "relative_rms_restricted": 2.259282599476469e-16
+        },
+        "t8_bump_T6_lab": {
+          "reference_unresolved_rms_fraction": 7.539227466023534e-10,
+          "relative_rms_including_unresolved_modes": 1.0662077732266225e-09,
+          "relative_rms_restricted": 7.539227466023535e-10
+        },
+        "t8_bump_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.2406142536812093e-16,
+          "relative_rms_including_unresolved_modes": 3.168707065602437e-16,
+          "relative_rms_restricted": 2.2406142536812093e-16
+        },
+        "t8_bump_T8_lab": {
+          "reference_unresolved_rms_fraction": 6.531688901236241e-10,
+          "relative_rms_including_unresolved_modes": 9.23720302933011e-10,
+          "relative_rms_restricted": 6.53168890123624e-10
+        },
+        "t8_bump_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.2035117894221403e-16,
+          "relative_rms_including_unresolved_modes": 3.1162362574497984e-16,
+          "relative_rms_restricted": 2.2035117894221405e-16
+        },
+        "t8_instant": {
+          "reference_unresolved_rms_fraction": 1.9125925255571507e-08,
+          "relative_rms_including_unresolved_modes": 2.7048142889363327e-08,
+          "relative_rms_restricted": 1.9125925255571507e-08
+        }
+      },
+      "max_field_relative_rms": 0.0017847650643594806,
+      "max_observable_absolute_change": 0.004200066092294397,
+      "observable_absolute_changes": {
+        "t3_boxcar_T0.5_lab_error_balanced": 0.0011419484851633022,
+        "t3_boxcar_T0.5_lab_error_full": 0.0012288763024496593,
+        "t3_boxcar_T0.5_wave_error_balanced": 5.1030294137e-06,
+        "t3_boxcar_T0.5_wave_error_full": 4.57725158516829e-05,
+        "t3_boxcar_T1_lab_error_balanced": 0.0015006011509644535,
+        "t3_boxcar_T1_lab_error_full": 0.0014369681606812013,
+        "t3_boxcar_T1_wave_error_balanced": 1.0199357311890811e-05,
+        "t3_boxcar_T1_wave_error_full": 3.0872486280237796e-05,
+        "t3_boxcar_T2_lab_error_balanced": 0.00036494626665325297,
+        "t3_boxcar_T2_lab_error_full": 0.00048134704366636916,
+        "t3_boxcar_T2_wave_error_balanced": 1.9362665544697677e-05,
+        "t3_boxcar_T2_wave_error_full": 3.929694290022781e-05,
+        "t3_bump_T0.5_lab_error_balanced": 0.0,
+        "t3_bump_T0.5_lab_error_full": 0.0,
+        "t3_bump_T0.5_wave_error_balanced": 0.0,
+        "t3_bump_T0.5_wave_error_full": 0.0,
+        "t3_bump_T1_lab_error_balanced": 0.0,
+        "t3_bump_T1_lab_error_full": 0.0,
+        "t3_bump_T1_wave_error_balanced": 0.0,
+        "t3_bump_T1_wave_error_full": 0.0,
+        "t3_bump_T2_lab_error_balanced": 0.0,
+        "t3_bump_T2_lab_error_full": 0.0,
+        "t3_bump_T2_wave_error_balanced": 0.0,
+        "t3_bump_T2_wave_error_full": 0.0,
+        "t8_boxcar_T0.5_lab_retention": 0.0036538314581030518,
+        "t8_boxcar_T0.5_wave_retention": 0.00010202848036700018,
+        "t8_boxcar_T1.5_lab_retention": 0.0024905275514285896,
+        "t8_boxcar_T1.5_wave_retention": 8.490750304868122e-05,
+        "t8_boxcar_T10_lab_retention": 0.00013027834422503493,
+        "t8_boxcar_T10_wave_retention": 0.00014151031532727565,
+        "t8_boxcar_T12_lab_retention": 4.738743194843825e-05,
+        "t8_boxcar_T12_wave_retention": 0.0001293881233134231,
+        "t8_boxcar_T16_lab_retention": 9.574540112279595e-06,
+        "t8_boxcar_T16_wave_retention": 9.646401484364464e-05,
+        "t8_boxcar_T1_lab_retention": 0.004200066092294397,
+        "t8_boxcar_T1_wave_retention": 8.269800463833743e-05,
+        "t8_boxcar_T2_lab_retention": 0.0009545562562881527,
+        "t8_boxcar_T2_wave_retention": 9.438343913203973e-05,
+        "t8_boxcar_T3_lab_retention": 0.0007073001431393555,
+        "t8_boxcar_T3_wave_retention": 0.00011144160774478884,
+        "t8_boxcar_T4_lab_retention": 7.818826660112299e-05,
+        "t8_boxcar_T4_wave_retention": 0.00012274578939130976,
+        "t8_boxcar_T6_lab_retention": 4.949946009775302e-05,
+        "t8_boxcar_T6_wave_retention": 0.00014122296954088842,
+        "t8_boxcar_T8_lab_retention": 3.0164164815334182e-05,
+        "t8_boxcar_T8_wave_retention": 0.00014657828356479108,
+        "t8_bump_T0.5_lab_retention": 0.0,
+        "t8_bump_T0.5_wave_retention": 0.0,
+        "t8_bump_T1.5_lab_retention": 0.0,
+        "t8_bump_T1.5_wave_retention": 0.0,
+        "t8_bump_T10_lab_retention": 0.0,
+        "t8_bump_T10_wave_retention": 0.0,
+        "t8_bump_T12_lab_retention": 0.0,
+        "t8_bump_T12_wave_retention": 0.0,
+        "t8_bump_T16_lab_retention": 0.0,
+        "t8_bump_T16_wave_retention": 0.0,
+        "t8_bump_T1_lab_retention": 0.0,
+        "t8_bump_T1_wave_retention": 0.0,
+        "t8_bump_T2_lab_retention": 0.0,
+        "t8_bump_T2_wave_retention": 0.0,
+        "t8_bump_T3_lab_retention": 0.0,
+        "t8_bump_T3_wave_retention": 0.0,
+        "t8_bump_T4_lab_retention": 0.0,
+        "t8_bump_T4_wave_retention": 0.0,
+        "t8_bump_T6_lab_retention": 0.0,
+        "t8_bump_T6_wave_retention": 0.0,
+        "t8_bump_T8_lab_retention": 0.0,
+        "t8_bump_T8_wave_retention": 0.0
+      },
+      "qualitative_orderings_preserved": {
+        "high": true,
+        "low": true
+      },
+      "source_report_sha256": "c20f0cfa853b59122316e59af5f956f9901327c2d1e812e7c8a69d62b3ec3cdd"
+    },
+    "comparison_quadrature_N512_dense_half": {
+      "changed_factors": {
+        "quadrature": [
+          "legacy",
+          "trapezoid"
+        ]
+      },
+      "fields": {
+        "t3_balanced": {
+          "reference_unresolved_rms_fraction": 2.259649441771838e-16,
+          "relative_rms_including_unresolved_modes": 3.1956268867625267e-16,
+          "relative_rms_restricted": 2.2596494417718383e-16
+        },
+        "t3_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.1363447437884844e-09,
+          "relative_rms_including_unresolved_modes": 0.0012798658369402797,
+          "relative_rms_restricted": 0.0012798658369384966
+        },
+        "t3_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.228014875397453e-16,
+          "relative_rms_including_unresolved_modes": 4.9111614477510823e-05,
+          "relative_rms_restricted": 4.911161447751082e-05
+        },
+        "t3_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5479408385416191e-09,
+          "relative_rms_including_unresolved_modes": 0.0016038725615960697,
+          "relative_rms_restricted": 0.0016038725615953233
+        },
+        "t3_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.2015558102217899e-16,
+          "relative_rms_including_unresolved_modes": 4.0338626192210754e-05,
+          "relative_rms_restricted": 4.033862619221075e-05
+        },
+        "t3_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.1044012047522324e-09,
+          "relative_rms_including_unresolved_modes": 0.0006279982739800899,
+          "relative_rms_restricted": 0.0006279982739791189
+        },
+        "t3_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2846463322238485e-16,
+          "relative_rms_including_unresolved_modes": 4.758358242304287e-05,
+          "relative_rms_restricted": 4.758358242304289e-05
+        },
+        "t3_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.4754254067973143e-09,
+          "relative_rms_including_unresolved_modes": 3.500780182935698e-09,
+          "relative_rms_restricted": 2.4754254067973143e-09
+        },
+        "t3_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.333145479230475e-16,
+          "relative_rms_including_unresolved_modes": 3.2995659797172123e-16,
+          "relative_rms_restricted": 2.333145479230475e-16
+        },
+        "t3_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.7771211398961184e-09,
+          "relative_rms_including_unresolved_modes": 2.513228818021025e-09,
+          "relative_rms_restricted": 1.7771211398961178e-09
+        },
+        "t3_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.265480983568545e-16,
+          "relative_rms_including_unresolved_modes": 3.2038739322609755e-16,
+          "relative_rms_restricted": 2.2654809835685455e-16
+        },
+        "t3_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.2844260257998504e-09,
+          "relative_rms_including_unresolved_modes": 1.8164527055511234e-09,
+          "relative_rms_restricted": 1.2844260257998506e-09
+        },
+        "t3_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.331005783086176e-16,
+          "relative_rms_including_unresolved_modes": 3.296539992410587e-16,
+          "relative_rms_restricted": 2.331005783086176e-16
+        },
+        "t3_instant": {
+          "reference_unresolved_rms_fraction": 1.8911315815751793e-08,
+          "relative_rms_including_unresolved_modes": 2.6744639308956998e-08,
+          "relative_rms_restricted": 1.891131581575179e-08
+        },
+        "t8_balanced": {
+          "reference_unresolved_rms_fraction": 2.344391908973546e-16,
+          "relative_rms_including_unresolved_modes": 3.3154708331881387e-16,
+          "relative_rms_restricted": 2.3443919089735454e-16
+        },
+        "t8_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.172708537075829e-09,
+          "relative_rms_including_unresolved_modes": 0.0017849430317016758,
+          "relative_rms_restricted": 0.001784943031700354
+        },
+        "t8_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2169451530439565e-16,
+          "relative_rms_including_unresolved_modes": 0.00035552607504516333,
+          "relative_rms_restricted": 0.0003555260750451634
+        },
+        "t8_boxcar_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.2939318827343266e-09,
+          "relative_rms_including_unresolved_modes": 0.0012829941184951987,
+          "relative_rms_restricted": 0.0012829941184945462
+        },
+        "t8_boxcar_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2257078810943557e-16,
+          "relative_rms_including_unresolved_modes": 0.00017660203081449027,
+          "relative_rms_restricted": 0.0001766020308144903
+        },
+        "t8_boxcar_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.035881788750373e-10,
+          "relative_rms_including_unresolved_modes": 0.00014849037048176035,
+          "relative_rms_restricted": 0.00014849037048090638
+        },
+        "t8_boxcar_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.204336620893377e-16,
+          "relative_rms_including_unresolved_modes": 8.91302782272797e-05,
+          "relative_rms_restricted": 8.913027822727968e-05
+        },
+        "t8_boxcar_T12_lab": {
+          "reference_unresolved_rms_fraction": 4.5979945727669884e-10,
+          "relative_rms_including_unresolved_modes": 9.275702010074806e-05,
+          "relative_rms_restricted": 9.275702009960847e-05
+        },
+        "t8_boxcar_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.129087061127541e-16,
+          "relative_rms_including_unresolved_modes": 8.064240698980983e-05,
+          "relative_rms_restricted": 8.064240698980983e-05
+        },
+        "t8_boxcar_T16_lab": {
+          "reference_unresolved_rms_fraction": 3.977819980524845e-10,
+          "relative_rms_including_unresolved_modes": 9.136593002044098e-05,
+          "relative_rms_restricted": 9.136593001957507e-05
+        },
+        "t8_boxcar_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.481797212332031e-16,
+          "relative_rms_including_unresolved_modes": 6.834274769937781e-05,
+          "relative_rms_restricted": 6.834274769937783e-05
+        },
+        "t8_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5708227232290355e-09,
+          "relative_rms_including_unresolved_modes": 0.0015735899576047225,
+          "relative_rms_restricted": 0.0015735899576039378
+        },
+        "t8_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.2634359017290716e-16,
+          "relative_rms_including_unresolved_modes": 0.0002209718243078788,
+          "relative_rms_restricted": 0.0002209718243078788
+        },
+        "t8_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.120693665859127e-09,
+          "relative_rms_including_unresolved_modes": 0.0006230059593418641,
+          "relative_rms_restricted": 0.0006230059593408561
+        },
+        "t8_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2083862838779312e-16,
+          "relative_rms_including_unresolved_modes": 0.00015012520189511082,
+          "relative_rms_restricted": 0.0001501252018951108
+        },
+        "t8_boxcar_T3_lab": {
+          "reference_unresolved_rms_fraction": 9.160662704455917e-10,
+          "relative_rms_including_unresolved_modes": 0.0005362878969359272,
+          "relative_rms_restricted": 0.000536287896935145
+        },
+        "t8_boxcar_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.3436607335492783e-16,
+          "relative_rms_including_unresolved_modes": 0.00012704527699668354,
+          "relative_rms_restricted": 0.00012704527699668354
+        },
+        "t8_boxcar_T4_lab": {
+          "reference_unresolved_rms_fraction": 7.952753241190919e-10,
+          "relative_rms_including_unresolved_modes": 0.00033035143946823084,
+          "relative_rms_restricted": 0.00033035143946727355
+        },
+        "t8_boxcar_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.284752894881826e-16,
+          "relative_rms_including_unresolved_modes": 0.00011330955714476574,
+          "relative_rms_restricted": 0.00011330955714476577
+        },
+        "t8_boxcar_T6_lab": {
+          "reference_unresolved_rms_fraction": 6.498869920648407e-10,
+          "relative_rms_including_unresolved_modes": 0.00023880529789144263,
+          "relative_rms_restricted": 0.0002388052978905583
+        },
+        "t8_boxcar_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.524036633096749e-16,
+          "relative_rms_including_unresolved_modes": 0.00010402641400635613,
+          "relative_rms_restricted": 0.00010402641400635613
+        },
+        "t8_boxcar_T8_lab": {
+          "reference_unresolved_rms_fraction": 5.62599888070533e-10,
+          "relative_rms_including_unresolved_modes": 0.00018775215662042357,
+          "relative_rms_restricted": 0.00018775215661958074
+        },
+        "t8_boxcar_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.4417128805336383e-16,
+          "relative_rms_including_unresolved_modes": 9.725115296732532e-05,
+          "relative_rms_restricted": 9.725115296732534e-05
+        },
+        "t8_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.510635984352252e-09,
+          "relative_rms_including_unresolved_modes": 3.55057545925288e-09,
+          "relative_rms_restricted": 2.5106359843522524e-09
+        },
+        "t8_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.214726598018882e-16,
+          "relative_rms_including_unresolved_modes": 3.1320963918667285e-16,
+          "relative_rms_restricted": 2.2147265980188818e-16
+        },
+        "t8_bump_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.4933042004831162e-09,
+          "relative_rms_including_unresolved_modes": 2.1118510530719344e-09,
+          "relative_rms_restricted": 1.4933042004831164e-09
+        },
+        "t8_bump_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.414476982644933e-16,
+          "relative_rms_including_unresolved_modes": 3.4145860948941326e-16,
+          "relative_rms_restricted": 2.414476982644934e-16
+        },
+        "t8_bump_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.849071817546805e-10,
+          "relative_rms_including_unresolved_modes": 8.271836691668941e-10,
+          "relative_rms_restricted": 5.849071817546805e-10
+        },
+        "t8_bump_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.22569249380215e-16,
+          "relative_rms_including_unresolved_modes": 3.1476045104069965e-16,
+          "relative_rms_restricted": 2.22569249380215e-16
+        },
+        "t8_bump_T12_lab": {
+          "reference_unresolved_rms_fraction": 5.341672416431989e-10,
+          "relative_rms_including_unresolved_modes": 7.554265577072382e-10,
+          "relative_rms_restricted": 5.341672416431987e-10
+        },
+        "t8_bump_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.526000999083309e-16,
+          "relative_rms_including_unresolved_modes": 3.5723048714716036e-16,
+          "relative_rms_restricted": 2.526000999083309e-16
+        },
+        "t8_bump_T16_lab": {
+          "reference_unresolved_rms_fraction": 4.6287089717505284e-10,
+          "relative_rms_including_unresolved_modes": 6.545983004127621e-10,
+          "relative_rms_restricted": 4.628708971750528e-10
+        },
+        "t8_bump_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.220890769986135e-16,
+          "relative_rms_including_unresolved_modes": 3.140813847463619e-16,
+          "relative_rms_restricted": 2.2208907699861356e-16
+        },
+        "t8_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.8068400919961042e-09,
+          "relative_rms_including_unresolved_modes": 2.5552577631403412e-09,
+          "relative_rms_restricted": 1.8068400919961038e-09
+        },
+        "t8_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.253820087495217e-16,
+          "relative_rms_including_unresolved_modes": 3.187382934884652e-16,
+          "relative_rms_restricted": 2.253820087495217e-16
+        },
+        "t8_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.3019579971438722e-09,
+          "relative_rms_including_unresolved_modes": 1.8412466572009755e-09,
+          "relative_rms_restricted": 1.3019579971438722e-09
+        },
+        "t8_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.3471485793816967e-16,
+          "relative_rms_including_unresolved_modes": 3.3193693538663393e-16,
+          "relative_rms_restricted": 2.3471485793816967e-16
+        },
+        "t8_bump_T3_lab": {
+          "reference_unresolved_rms_fraction": 1.0657777190884821e-09,
+          "relative_rms_including_unresolved_modes": 1.507237304809994e-09,
+          "relative_rms_restricted": 1.0657777190884823e-09
+        },
+        "t8_bump_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.496480807732511e-16,
+          "relative_rms_including_unresolved_modes": 3.530557016499455e-16,
+          "relative_rms_restricted": 2.49648080773251e-16
+        },
+        "t8_bump_T4_lab": {
+          "reference_unresolved_rms_fraction": 9.230462830876772e-10,
+          "relative_rms_including_unresolved_modes": 1.3053845722406685e-09,
+          "relative_rms_restricted": 9.230462830876776e-10
+        },
+        "t8_bump_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.295677058068207e-16,
+          "relative_rms_including_unresolved_modes": 3.246577630348826e-16,
+          "relative_rms_restricted": 2.2956770580682077e-16
+        },
+        "t8_bump_T6_lab": {
+          "reference_unresolved_rms_fraction": 7.545830527507151e-10,
+          "relative_rms_including_unresolved_modes": 1.067141587136954e-09,
+          "relative_rms_restricted": 7.545830527507154e-10
+        },
+        "t8_bump_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.2872361995129404e-16,
+          "relative_rms_including_unresolved_modes": 3.2346404537018944e-16,
+          "relative_rms_restricted": 2.287236199512941e-16
+        },
+        "t8_bump_T8_lab": {
+          "reference_unresolved_rms_fraction": 6.538301692870844e-10,
+          "relative_rms_including_unresolved_modes": 9.246554928944913e-10,
+          "relative_rms_restricted": 6.538301692870843e-10
+        },
+        "t8_bump_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.3234938824078716e-16,
+          "relative_rms_including_unresolved_modes": 3.28591656059213e-16,
+          "relative_rms_restricted": 2.323493882407872e-16
+        },
+        "t8_instant": {
+          "reference_unresolved_rms_fraction": 1.9128227892657305e-08,
+          "relative_rms_including_unresolved_modes": 2.705139930995929e-08,
+          "relative_rms_restricted": 1.912822789265731e-08
+        }
+      },
+      "max_field_relative_rms": 0.0017849430317016758,
+      "max_observable_absolute_change": 0.004199915486973627,
+      "observable_absolute_changes": {
+        "t3_boxcar_T0.5_lab_error_balanced": 0.0011419484852233652,
+        "t3_boxcar_T0.5_lab_error_full": 0.0012288763017266613,
+        "t3_boxcar_T0.5_wave_error_balanced": 5.103029443898066e-06,
+        "t3_boxcar_T0.5_wave_error_full": 4.5772515808672164e-05,
+        "t3_boxcar_T1_lab_error_balanced": 0.0015006011509317574,
+        "t3_boxcar_T1_lab_error_full": 0.0014369681604296247,
+        "t3_boxcar_T1_wave_error_balanced": 1.0199357306672763e-05,
+        "t3_boxcar_T1_wave_error_full": 3.087248642822272e-05,
+        "t3_boxcar_T2_lab_error_balanced": 0.00036494626666472296,
+        "t3_boxcar_T2_lab_error_full": 0.00048134704365337955,
+        "t3_boxcar_T2_wave_error_balanced": 1.9362665548472435e-05,
+        "t3_boxcar_T2_wave_error_full": 3.9296943154965014e-05,
+        "t3_bump_T0.5_lab_error_balanced": 0.0,
+        "t3_bump_T0.5_lab_error_full": 0.0,
+        "t3_bump_T0.5_wave_error_balanced": 0.0,
+        "t3_bump_T0.5_wave_error_full": 0.0,
+        "t3_bump_T1_lab_error_balanced": 0.0,
+        "t3_bump_T1_lab_error_full": 0.0,
+        "t3_bump_T1_wave_error_balanced": 0.0,
+        "t3_bump_T1_wave_error_full": 0.0,
+        "t3_bump_T2_lab_error_balanced": 0.0,
+        "t3_bump_T2_lab_error_full": 0.0,
+        "t3_bump_T2_wave_error_balanced": 0.0,
+        "t3_bump_T2_wave_error_full": 0.0,
+        "t8_boxcar_T0.5_lab_retention": 0.0036537618269210093,
+        "t8_boxcar_T0.5_wave_retention": 0.00010217950950219823,
+        "t8_boxcar_T1.5_lab_retention": 0.002490413739872438,
+        "t8_boxcar_T1.5_wave_retention": 8.495209373637902e-05,
+        "t8_boxcar_T10_lab_retention": 0.00013027748863811417,
+        "t8_boxcar_T10_wave_retention": 0.00014150505282550796,
+        "t8_boxcar_T12_lab_retention": 4.7368723296747905e-05,
+        "t8_boxcar_T12_wave_retention": 0.00012938158944786338,
+        "t8_boxcar_T16_lab_retention": 9.563680821719073e-06,
+        "t8_boxcar_T16_wave_retention": 9.645934487079177e-05,
+        "t8_boxcar_T1_lab_retention": 0.004199915486973627,
+        "t8_boxcar_T1_wave_retention": 8.273399810743154e-05,
+        "t8_boxcar_T2_lab_retention": 0.0009545070189494465,
+        "t8_boxcar_T2_wave_retention": 9.441163402235109e-05,
+        "t8_boxcar_T3_lab_retention": 0.0007072693496701504,
+        "t8_boxcar_T3_wave_retention": 0.00011136279368351154,
+        "t8_boxcar_T4_lab_retention": 7.819622031546292e-05,
+        "t8_boxcar_T4_wave_retention": 0.00012274633615971808,
+        "t8_boxcar_T6_lab_retention": 4.9502116926031237e-05,
+        "t8_boxcar_T6_wave_retention": 0.00014122347135436808,
+        "t8_boxcar_T8_lab_retention": 3.0151171270483e-05,
+        "t8_boxcar_T8_wave_retention": 0.00014656545972657753,
+        "t8_bump_T0.5_lab_retention": 0.0,
+        "t8_bump_T0.5_wave_retention": 0.0,
+        "t8_bump_T1.5_lab_retention": 0.0,
+        "t8_bump_T1.5_wave_retention": 0.0,
+        "t8_bump_T10_lab_retention": 0.0,
+        "t8_bump_T10_wave_retention": 0.0,
+        "t8_bump_T12_lab_retention": 0.0,
+        "t8_bump_T12_wave_retention": 0.0,
+        "t8_bump_T16_lab_retention": 0.0,
+        "t8_bump_T16_wave_retention": 0.0,
+        "t8_bump_T1_lab_retention": 0.0,
+        "t8_bump_T1_wave_retention": 0.0,
+        "t8_bump_T2_lab_retention": 0.0,
+        "t8_bump_T2_wave_retention": 0.0,
+        "t8_bump_T3_lab_retention": 0.0,
+        "t8_bump_T3_wave_retention": 0.0,
+        "t8_bump_T4_lab_retention": 0.0,
+        "t8_bump_T4_wave_retention": 0.0,
+        "t8_bump_T6_lab_retention": 0.0,
+        "t8_bump_T6_wave_retention": 0.0,
+        "t8_bump_T8_lab_retention": 0.0,
+        "t8_bump_T8_wave_retention": 0.0
+      },
+      "qualitative_orderings_preserved": {
+        "high": true,
+        "low": true
+      },
+      "source_report_sha256": "6ff9dafe151ea3f1779d93cb8ab5ae131c0b3bda48d9d7295a8d5b9c41b33f1e"
+    },
+    "comparison_sampling_N1024_dense": {
+      "changed_factors": {
+        "analysis_cadence": [
+          0.0125,
+          0.00625
+        ]
+      },
+      "fields": {
+        "t3_balanced": {
+          "reference_unresolved_rms_fraction": 2.2881929987221574e-16,
+          "relative_rms_including_unresolved_modes": 3.2359935721200374e-16,
+          "relative_rms_restricted": 2.288192998722158e-16
+        },
+        "t3_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.1311565360839973e-09,
+          "relative_rms_including_unresolved_modes": 4.1927165851813376e-05,
+          "relative_rms_restricted": 4.192716579765006e-05
+        },
+        "t3_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.570443517757672e-16,
+          "relative_rms_including_unresolved_modes": 1.457669223096291e-06,
+          "relative_rms_restricted": 1.4576692230962914e-06
+        },
+        "t3_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5441229813306477e-09,
+          "relative_rms_including_unresolved_modes": 2.240672254271426e-05,
+          "relative_rms_restricted": 2.2406722489508892e-05
+        },
+        "t3_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.2807691232391245e-16,
+          "relative_rms_including_unresolved_modes": 8.166565773588145e-07,
+          "relative_rms_restricted": 8.166565773588146e-07
+        },
+        "t3_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.1039752508574063e-09,
+          "relative_rms_including_unresolved_modes": 9.78494267127494e-06,
+          "relative_rms_restricted": 9.784942608997551e-06
+        },
+        "t3_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2441434352289295e-16,
+          "relative_rms_including_unresolved_modes": 5.026274981353004e-07,
+          "relative_rms_restricted": 5.026274981353003e-07
+        },
+        "t3_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.4669267615435942e-09,
+          "relative_rms_including_unresolved_modes": 4.4656913800675006e-07,
+          "relative_rms_restricted": 4.4656232408527807e-07
+        },
+        "t3_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.4078208747809157e-16,
+          "relative_rms_including_unresolved_modes": 1.7952713247552956e-08,
+          "relative_rms_restricted": 1.7952713247552962e-08
+        },
+        "t3_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.7725944832713348e-09,
+          "relative_rms_including_unresolved_modes": 4.00579607626107e-09,
+          "relative_rms_restricted": 3.5922570902518407e-09
+        },
+        "t3_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.476589605247831e-16,
+          "relative_rms_including_unresolved_modes": 1.5518157396577465e-09,
+          "relative_rms_restricted": 1.5518157396577271e-09
+        },
+        "t3_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.2815932345442267e-09,
+          "relative_rms_including_unresolved_modes": 2.5000545616575855e-09,
+          "relative_rms_restricted": 2.146576714779924e-09
+        },
+        "t3_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.348900639428729e-16,
+          "relative_rms_including_unresolved_modes": 1.1032602784145106e-09,
+          "relative_rms_restricted": 1.1032602784144854e-09
+        },
+        "t3_instant": {
+          "reference_unresolved_rms_fraction": 1.8855317514607863e-08,
+          "relative_rms_including_unresolved_modes": 2.66654457520094e-08,
+          "relative_rms_restricted": 1.8855317514607857e-08
+        },
+        "t8_balanced": {
+          "reference_unresolved_rms_fraction": 2.37723960201486e-16,
+          "relative_rms_including_unresolved_modes": 3.3619244861798344e-16,
+          "relative_rms_restricted": 2.377239602014861e-16
+        },
+        "t8_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.171744191563903e-09,
+          "relative_rms_including_unresolved_modes": 0.0006290694984129609,
+          "relative_rms_restricted": 0.0006290694984092123
+        },
+        "t8_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.428789818683372e-16,
+          "relative_rms_including_unresolved_modes": 8.253868172144967e-05,
+          "relative_rms_restricted": 8.253868172144962e-05
+        },
+        "t8_boxcar_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.2908211078590525e-09,
+          "relative_rms_including_unresolved_modes": 0.00021424777359850195,
+          "relative_rms_restricted": 0.00021424777359461356
+        },
+        "t8_boxcar_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.3732210678888626e-16,
+          "relative_rms_including_unresolved_modes": 4.960067182986546e-05,
+          "relative_rms_restricted": 4.960067182986545e-05
+        },
+        "t8_boxcar_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.013509613554871e-10,
+          "relative_rms_including_unresolved_modes": 3.697927294049163e-05,
+          "relative_rms_restricted": 3.697927293709307e-05
+        },
+        "t8_boxcar_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.469052576371453e-16,
+          "relative_rms_including_unresolved_modes": 3.16622070507817e-05,
+          "relative_rms_restricted": 3.1662207050781674e-05
+        },
+        "t8_boxcar_T12_lab": {
+          "reference_unresolved_rms_fraction": 4.5760451207904406e-10,
+          "relative_rms_including_unresolved_modes": 3.219924475429968e-05,
+          "relative_rms_restricted": 3.2199244751048016e-05
+        },
+        "t8_boxcar_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.2606235540665754e-16,
+          "relative_rms_including_unresolved_modes": 3.068902506864436e-05,
+          "relative_rms_restricted": 3.0689025068644355e-05
+        },
+        "t8_boxcar_T16_lab": {
+          "reference_unresolved_rms_fraction": 3.961780947575263e-10,
+          "relative_rms_including_unresolved_modes": 2.59442898359676e-05,
+          "relative_rms_restricted": 2.5944289832942705e-05
+        },
+        "t8_boxcar_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.3151587676103037e-16,
+          "relative_rms_including_unresolved_modes": 2.794435759755085e-05,
+          "relative_rms_restricted": 2.7944357597550843e-05
+        },
+        "t8_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5680678534643638e-09,
+          "relative_rms_including_unresolved_modes": 0.0003208272224097896,
+          "relative_rms_restricted": 0.0003208272224059577
+        },
+        "t8_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.264766203653498e-16,
+          "relative_rms_including_unresolved_modes": 5.8442792640109385e-05,
+          "relative_rms_restricted": 5.844279264010942e-05
+        },
+        "t8_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.1179605449952865e-09,
+          "relative_rms_including_unresolved_modes": 0.00015930308607486248,
+          "relative_rms_restricted": 0.0001593030860709397
+        },
+        "t8_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2990226016947364e-16,
+          "relative_rms_including_unresolved_modes": 4.4306261769587606e-05,
+          "relative_rms_restricted": 4.430626176958763e-05
+        },
+        "t8_boxcar_T3_lab": {
+          "reference_unresolved_rms_fraction": 9.148100842504089e-10,
+          "relative_rms_including_unresolved_modes": 0.00010629609732537812,
+          "relative_rms_restricted": 0.00010629609732144164
+        },
+        "t8_boxcar_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.3970165912233873e-16,
+          "relative_rms_including_unresolved_modes": 3.7392992329783846e-05,
+          "relative_rms_restricted": 3.7392992329783846e-05
+        },
+        "t8_boxcar_T4_lab": {
+          "reference_unresolved_rms_fraction": 7.924292229539272e-10,
+          "relative_rms_including_unresolved_modes": 7.885311033199983e-05,
+          "relative_rms_restricted": 7.885311032801811e-05
+        },
+        "t8_boxcar_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.3897345566883e-16,
+          "relative_rms_including_unresolved_modes": 3.403691058866117e-05,
+          "relative_rms_restricted": 3.4036910588661186e-05
+        },
+        "t8_boxcar_T6_lab": {
+          "reference_unresolved_rms_fraction": 6.473727965991886e-10,
+          "relative_rms_including_unresolved_modes": 5.3254831355392685e-05,
+          "relative_rms_restricted": 5.325483135145793e-05
+        },
+        "t8_boxcar_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.422722060184946e-16,
+          "relative_rms_including_unresolved_modes": 3.108450338517465e-05,
+          "relative_rms_restricted": 3.108450338517464e-05
+        },
+        "t8_boxcar_T8_lab": {
+          "reference_unresolved_rms_fraction": 5.609301504811308e-10,
+          "relative_rms_including_unresolved_modes": 4.283439148315606e-05,
+          "relative_rms_restricted": 4.2834391479483254e-05
+        },
+        "t8_boxcar_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.468428543304511e-16,
+          "relative_rms_including_unresolved_modes": 3.221677291521229e-05,
+          "relative_rms_restricted": 3.221677291521227e-05
+        },
+        "t8_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.513280485496552e-09,
+          "relative_rms_including_unresolved_modes": 1.638456015353979e-05,
+          "relative_rms_restricted": 1.6384559960779694e-05
+        },
+        "t8_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.283190546062613e-16,
+          "relative_rms_including_unresolved_modes": 9.315645838290264e-05,
+          "relative_rms_restricted": 9.315645838290259e-05
+        },
+        "t8_bump_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.4900156945008126e-09,
+          "relative_rms_including_unresolved_modes": 1.0487356548705672e-07,
+          "relative_rms_restricted": 1.0486298007971218e-07
+        },
+        "t8_bump_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.4291603294559744e-16,
+          "relative_rms_including_unresolved_modes": 5.468339330310987e-05,
+          "relative_rms_restricted": 5.468339330310987e-05
+        },
+        "t8_bump_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.82850325752696e-10,
+          "relative_rms_including_unresolved_modes": 2.364759280748065e-06,
+          "relative_rms_restricted": 2.364759208919506e-06
+        },
+        "t8_bump_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.4256687853294175e-16,
+          "relative_rms_including_unresolved_modes": 2.819025037301322e-05,
+          "relative_rms_restricted": 2.8190250373013222e-05
+        },
+        "t8_bump_T12_lab": {
+          "reference_unresolved_rms_fraction": 5.320928879164208e-10,
+          "relative_rms_including_unresolved_modes": 3.2821044757597044e-06,
+          "relative_rms_restricted": 3.2821044326284085e-06
+        },
+        "t8_bump_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.3409683108325327e-16,
+          "relative_rms_including_unresolved_modes": 2.808591334266378e-05,
+          "relative_rms_restricted": 2.8085913342663754e-05
+        },
+        "t8_bump_T16_lab": {
+          "reference_unresolved_rms_fraction": 4.6080678859851937e-10,
+          "relative_rms_including_unresolved_modes": 4.1393809633544505e-06,
+          "relative_rms_restricted": 4.139380937705338e-06
+        },
+        "t8_bump_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.3832817160643793e-16,
+          "relative_rms_including_unresolved_modes": 2.7551104939490295e-05,
+          "relative_rms_restricted": 2.75511049394903e-05
+        },
+        "t8_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.802717869479789e-09,
+          "relative_rms_including_unresolved_modes": 8.329878080710926e-07,
+          "relative_rms_restricted": 8.329858573849659e-07
+        },
+        "t8_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.3424015881319447e-16,
+          "relative_rms_including_unresolved_modes": 6.661107626491186e-05,
+          "relative_rms_restricted": 6.661107626491184e-05
+        },
+        "t8_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.298793745195478e-09,
+          "relative_rms_including_unresolved_modes": 3.254193903644877e-08,
+          "relative_rms_restricted": 3.251601038041705e-08
+        },
+        "t8_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.419708748984863e-16,
+          "relative_rms_including_unresolved_modes": 4.841588979269752e-05,
+          "relative_rms_restricted": 4.841588979269754e-05
+        },
+        "t8_bump_T3_lab": {
+          "reference_unresolved_rms_fraction": 1.0626190141458509e-09,
+          "relative_rms_including_unresolved_modes": 1.5853132394666805e-08,
+          "relative_rms_restricted": 1.5817479178225896e-08
+        },
+        "t8_bump_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.516789230902236e-16,
+          "relative_rms_including_unresolved_modes": 4.110815793034272e-05,
+          "relative_rms_restricted": 4.110815793034274e-05
+        },
+        "t8_bump_T4_lab": {
+          "reference_unresolved_rms_fraction": 9.207552861740761e-10,
+          "relative_rms_including_unresolved_modes": 2.0001507490105265e-08,
+          "relative_rms_restricted": 1.9980303090286683e-08
+        },
+        "t8_bump_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.2823800024154704e-16,
+          "relative_rms_including_unresolved_modes": 3.640226722460593e-05,
+          "relative_rms_restricted": 3.640226722460593e-05
+        },
+        "t8_bump_T6_lab": {
+          "reference_unresolved_rms_fraction": 7.522196119901068e-10,
+          "relative_rms_including_unresolved_modes": 1.3782305580932578e-07,
+          "relative_rms_restricted": 1.3782100303754816e-07
+        },
+        "t8_bump_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.4900643866815763e-16,
+          "relative_rms_including_unresolved_modes": 3.1294781719320266e-05,
+          "relative_rms_restricted": 3.1294781719320286e-05
+        },
+        "t8_bump_T8_lab": {
+          "reference_unresolved_rms_fraction": 6.515309165519871e-10,
+          "relative_rms_including_unresolved_modes": 8.64874012723455e-07,
+          "relative_rms_restricted": 8.64873767316269e-07
+        },
+        "t8_bump_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.2735348072538763e-16,
+          "relative_rms_including_unresolved_modes": 2.871205708800485e-05,
+          "relative_rms_restricted": 2.8712057088004858e-05
+        },
+        "t8_instant": {
+          "reference_unresolved_rms_fraction": 1.904952930234603e-08,
+          "relative_rms_including_unresolved_modes": 2.6940102696201434e-08,
+          "relative_rms_restricted": 1.9049529302346012e-08
+        }
+      },
+      "max_field_relative_rms": 0.0006290694984129609,
+      "max_observable_absolute_change": 0.00013147246607447816,
+      "observable_absolute_changes": {
+        "t3_boxcar_T0.5_lab_error_balanced": 3.987552942891215e-05,
+        "t3_boxcar_T0.5_lab_error_full": 3.667739627209038e-05,
+        "t3_boxcar_T0.5_wave_error_balanced": 1.967495719124024e-07,
+        "t3_boxcar_T0.5_wave_error_full": 1.0623484524639563e-06,
+        "t3_boxcar_T1_lab_error_balanced": 2.1136068828947474e-05,
+        "t3_boxcar_T1_lab_error_full": 1.5085363406219798e-05,
+        "t3_boxcar_T1_wave_error_balanced": 2.0109109383215085e-07,
+        "t3_boxcar_T1_wave_error_full": 8.347392288672595e-09,
+        "t3_boxcar_T2_lab_error_balanced": 8.635525972522373e-06,
+        "t3_boxcar_T2_lab_error_full": 6.4615380887533824e-06,
+        "t3_boxcar_T2_wave_error_balanced": 1.8139823171337e-07,
+        "t3_boxcar_T2_wave_error_full": 2.7794060534006015e-07,
+        "t3_bump_T0.5_lab_error_balanced": 4.0619069918701456e-07,
+        "t3_bump_T0.5_lab_error_full": 4.255444684547749e-07,
+        "t3_bump_T0.5_wave_error_balanced": 1.7857157974532356e-09,
+        "t3_bump_T0.5_wave_error_full": 1.593752857074679e-08,
+        "t3_bump_T1_lab_error_balanced": 2.0248007992496042e-09,
+        "t3_bump_T1_lab_error_full": 1.6839709626736976e-09,
+        "t3_bump_T1_wave_error_balanced": 1.2803480498035924e-11,
+        "t3_bump_T1_wave_error_full": 3.167041975893348e-11,
+        "t3_bump_T2_lab_error_balanced": 2.0628776464803877e-12,
+        "t3_bump_T2_lab_error_full": 2.108258012611941e-12,
+        "t3_bump_T2_wave_error_balanced": 5.120903701083535e-13,
+        "t3_bump_T2_wave_error_full": 1.195600909942307e-12,
+        "t8_boxcar_T0.5_lab_retention": 0.00013147246607447816,
+        "t8_boxcar_T0.5_wave_retention": 3.6746339368010084e-06,
+        "t8_boxcar_T1.5_lab_retention": 2.4303903623262846e-05,
+        "t8_boxcar_T1.5_wave_retention": 1.1331419047522218e-06,
+        "t8_boxcar_T10_lab_retention": 4.623594119408658e-06,
+        "t8_boxcar_T10_wave_retention": 2.2142075828401886e-07,
+        "t8_boxcar_T12_lab_retention": 4.929824585941933e-06,
+        "t8_boxcar_T12_wave_retention": 1.5041575340823954e-07,
+        "t8_boxcar_T16_lab_retention": 2.6701793891595327e-06,
+        "t8_boxcar_T16_wave_retention": 7.348617458990958e-08,
+        "t8_boxcar_T1_lab_retention": 6.662704993332103e-05,
+        "t8_boxcar_T1_wave_retention": 1.605709565311031e-06,
+        "t8_boxcar_T2_lab_retention": 3.101086279325149e-05,
+        "t8_boxcar_T2_wave_retention": 9.388053178183142e-07,
+        "t8_boxcar_T3_lab_retention": 1.594153376331675e-05,
+        "t8_boxcar_T3_wave_retention": 6.864497185121721e-07,
+        "t8_boxcar_T4_lab_retention": 1.4941551185379542e-05,
+        "t8_boxcar_T4_wave_retention": 5.852895483826615e-07,
+        "t8_boxcar_T6_lab_retention": 9.13270898797447e-06,
+        "t8_boxcar_T6_wave_retention": 4.329300249406032e-07,
+        "t8_boxcar_T8_lab_retention": 6.228734998649232e-06,
+        "t8_boxcar_T8_wave_retention": 3.115990709900984e-07,
+        "t8_bump_T0.5_lab_retention": 1.4542890834912114e-06,
+        "t8_bump_T0.5_wave_retention": 1.5798667929445287e-09,
+        "t8_bump_T1.5_lab_retention": 9.052680827181803e-11,
+        "t8_bump_T1.5_wave_retention": 1.6469827057719044e-08,
+        "t8_bump_T10_lab_retention": 1.9697205012880747e-09,
+        "t8_bump_T10_wave_retention": 4.831282041095619e-09,
+        "t8_bump_T12_lab_retention": 4.008014531375892e-09,
+        "t8_bump_T12_wave_retention": 4.949399667886212e-09,
+        "t8_bump_T16_lab_retention": 6.643863324079513e-09,
+        "t8_bump_T16_wave_retention": 5.082860243810217e-09,
+        "t8_bump_T1_lab_retention": 5.861851337662927e-09,
+        "t8_bump_T1_wave_retention": 2.4473307380645792e-08,
+        "t8_bump_T2_lab_retention": 2.2052915049641797e-12,
+        "t8_bump_T2_wave_retention": 1.2957318329398504e-08,
+        "t8_bump_T3_lab_retention": 1.3627987627273797e-12,
+        "t8_bump_T3_wave_retention": 9.416310731147348e-09,
+        "t8_bump_T4_lab_retention": 4.059197422634497e-12,
+        "t8_bump_T4_wave_retention": 7.453064165829915e-09,
+        "t8_bump_T6_lab_retention": 8.784292737651356e-12,
+        "t8_bump_T6_wave_retention": 5.631317301357797e-09,
+        "t8_bump_T8_lab_retention": 2.2392774093327183e-10,
+        "t8_bump_T8_wave_retention": 4.866009040149777e-09
+      },
+      "qualitative_orderings_preserved": {
+        "high": true,
+        "low": true
+      },
+      "source_report_sha256": "8bfe1ab4265446d1f5e87a574713d9290deab7b04a5ff8f9bbe60e4860452caa"
+    },
+    "comparison_sampling_N512_dense": {
+      "changed_factors": {
+        "analysis_cadence": [
+          0.0125,
+          0.00625
+        ]
+      },
+      "fields": {
+        "t3_balanced": {
+          "reference_unresolved_rms_fraction": 2.413199368345671e-16,
+          "relative_rms_including_unresolved_modes": 3.4127792754246337e-16,
+          "relative_rms_restricted": 2.41319936834567e-16
+        },
+        "t3_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.1353864886810012e-09,
+          "relative_rms_including_unresolved_modes": 4.192716320700878e-05,
+          "relative_rms_restricted": 4.192716315263024e-05
+        },
+        "t3_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.191718689635468e-16,
+          "relative_rms_including_unresolved_modes": 1.457669409788189e-06,
+          "relative_rms_restricted": 1.4576694097881893e-06
+        },
+        "t3_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5474591487655703e-09,
+          "relative_rms_including_unresolved_modes": 2.2406722161397876e-05,
+          "relative_rms_restricted": 2.240672210796236e-05
+        },
+        "t3_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.1567689737478285e-16,
+          "relative_rms_including_unresolved_modes": 8.166555782862527e-07,
+          "relative_rms_restricted": 8.166555782862525e-07
+        },
+        "t3_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.1048741442144862e-09,
+          "relative_rms_including_unresolved_modes": 9.784938077038128e-06,
+          "relative_rms_restricted": 9.784938014659251e-06
+        },
+        "t3_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.1616786973506549e-16,
+          "relative_rms_including_unresolved_modes": 5.02624009472915e-07,
+          "relative_rms_restricted": 5.026240094729149e-07
+        },
+        "t3_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.4737315281365704e-09,
+          "relative_rms_including_unresolved_modes": 4.4656238378858086e-07,
+          "relative_rms_restricted": 4.465555321203249e-07
+        },
+        "t3_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.1477695512299443e-16,
+          "relative_rms_including_unresolved_modes": 1.795100708230648e-08,
+          "relative_rms_restricted": 1.7951007082306485e-08
+        },
+        "t3_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.775919022613575e-09,
+          "relative_rms_including_unresolved_modes": 4.007683826431852e-09,
+          "relative_rms_restricted": 3.592720595560235e-09
+        },
+        "t3_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.264414795269381e-16,
+          "relative_rms_including_unresolved_modes": 1.5474063929825134e-09,
+          "relative_rms_restricted": 1.5474063929824969e-09
+        },
+        "t3_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.2840619918573706e-09,
+          "relative_rms_including_unresolved_modes": 2.5022556487340545e-09,
+          "relative_rms_restricted": 2.1476657404467685e-09
+        },
+        "t3_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2381876112650134e-16,
+          "relative_rms_including_unresolved_modes": 1.0946714629138241e-09,
+          "relative_rms_restricted": 1.0946714629138012e-09
+        },
+        "t3_instant": {
+          "reference_unresolved_rms_fraction": 1.8910278602771794e-08,
+          "relative_rms_including_unresolved_modes": 2.674317246829361e-08,
+          "relative_rms_restricted": 1.8910278602771788e-08
+        },
+        "t8_balanced": {
+          "reference_unresolved_rms_fraction": 2.5265466056982596e-16,
+          "relative_rms_including_unresolved_modes": 3.5730764757461876e-16,
+          "relative_rms_restricted": 2.5265466056982596e-16
+        },
+        "t8_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.1737232313034554e-09,
+          "relative_rms_including_unresolved_modes": 0.00026093092764787045,
+          "relative_rms_restricted": 0.0002609309276388162
+        },
+        "t8_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2318454408051786e-16,
+          "relative_rms_including_unresolved_modes": 1.2402584673437073e-05,
+          "relative_rms_restricted": 1.2402584673437072e-05
+        },
+        "t8_boxcar_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.2929264895227158e-09,
+          "relative_rms_including_unresolved_modes": 8.653733340772824e-05,
+          "relative_rms_restricted": 8.653733339806967e-05
+        },
+        "t8_boxcar_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.387611674457299e-16,
+          "relative_rms_including_unresolved_modes": 4.097638981783801e-06,
+          "relative_rms_restricted": 4.097638981783802e-06
+        },
+        "t8_boxcar_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.02602270177982e-10,
+          "relative_rms_including_unresolved_modes": 1.3980267045976337e-05,
+          "relative_rms_restricted": 1.3980267036941853e-05
+        },
+        "t8_boxcar_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.2086156091174393e-16,
+          "relative_rms_including_unresolved_modes": 1.0914922618342405e-06,
+          "relative_rms_restricted": 1.0914922618342407e-06
+        },
+        "t8_boxcar_T12_lab": {
+          "reference_unresolved_rms_fraction": 4.578591889202339e-10,
+          "relative_rms_including_unresolved_modes": 1.1686202387665535e-05,
+          "relative_rms_restricted": 1.1686202378696195e-05
+        },
+        "t8_boxcar_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.192148963743738e-16,
+          "relative_rms_including_unresolved_modes": 8.327803923193756e-07,
+          "relative_rms_restricted": 8.327803923193754e-07
+        },
+        "t8_boxcar_T16_lab": {
+          "reference_unresolved_rms_fraction": 3.967739062335908e-10,
+          "relative_rms_including_unresolved_modes": 9.17517433807116e-06,
+          "relative_rms_restricted": 9.175174329492058e-06
+        },
+        "t8_boxcar_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.1881840889468778e-16,
+          "relative_rms_including_unresolved_modes": 5.901921258476536e-07,
+          "relative_rms_restricted": 5.901921258476535e-07
+        },
+        "t8_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5709276170019161e-09,
+          "relative_rms_including_unresolved_modes": 0.00013215824988110778,
+          "relative_rms_restricted": 0.00013215824987177117
+        },
+        "t8_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.351522037893187e-16,
+          "relative_rms_including_unresolved_modes": 6.2935019761246734e-06,
+          "relative_rms_restricted": 6.293501976124673e-06
+        },
+        "t8_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.120130904246238e-09,
+          "relative_rms_including_unresolved_modes": 6.483395178761791e-05,
+          "relative_rms_restricted": 6.483395177794172e-05
+        },
+        "t8_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2329152430344006e-16,
+          "relative_rms_including_unresolved_modes": 3.1415536743510655e-06,
+          "relative_rms_restricted": 3.1415536743510664e-06
+        },
+        "t8_boxcar_T3_lab": {
+          "reference_unresolved_rms_fraction": 9.161672800492082e-10,
+          "relative_rms_including_unresolved_modes": 4.232588869204046e-05,
+          "relative_rms_restricted": 4.2325888682125e-05
+        },
+        "t8_boxcar_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.4182082643924404e-16,
+          "relative_rms_including_unresolved_modes": 2.208203957162314e-06,
+          "relative_rms_restricted": 2.208203957162314e-06
+        },
+        "t8_boxcar_T4_lab": {
+          "reference_unresolved_rms_fraction": 7.948951612528339e-10,
+          "relative_rms_including_unresolved_modes": 3.0751405051264676e-05,
+          "relative_rms_restricted": 3.075140504099103e-05
+        },
+        "t8_boxcar_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.331136594580309e-16,
+          "relative_rms_including_unresolved_modes": 1.8009004484195004e-06,
+          "relative_rms_restricted": 1.8009004484195004e-06
+        },
+        "t8_boxcar_T6_lab": {
+          "reference_unresolved_rms_fraction": 6.488480746873955e-10,
+          "relative_rms_including_unresolved_modes": 2.0944235835853492e-05,
+          "relative_rms_restricted": 2.0944235825802897e-05
+        },
+        "t8_boxcar_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.221329323211261e-16,
+          "relative_rms_including_unresolved_modes": 1.5023889286319063e-06,
+          "relative_rms_restricted": 1.502388928631906e-06
+        },
+        "t8_boxcar_T8_lab": {
+          "reference_unresolved_rms_fraction": 5.631190776161874e-10,
+          "relative_rms_including_unresolved_modes": 1.6677944723243445e-05,
+          "relative_rms_restricted": 1.667794471373678e-05
+        },
+        "t8_boxcar_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.4303740345812573e-16,
+          "relative_rms_including_unresolved_modes": 1.248490675965254e-06,
+          "relative_rms_restricted": 1.2484906759652541e-06
+        },
+        "t8_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.518174682980097e-09,
+          "relative_rms_including_unresolved_modes": 9.043745488657744e-07,
+          "relative_rms_restricted": 9.043710430085869e-07
+        },
+        "t8_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2491020751177084e-16,
+          "relative_rms_including_unresolved_modes": 2.5588283116307844e-07,
+          "relative_rms_restricted": 2.558828311630784e-07
+        },
+        "t8_bump_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.4933760460737962e-09,
+          "relative_rms_including_unresolved_modes": 2.92847249770244e-09,
+          "relative_rms_restricted": 2.519082998793919e-09
+        },
+        "t8_bump_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.239488791844528e-16,
+          "relative_rms_including_unresolved_modes": 1.8430394230795254e-09,
+          "relative_rms_restricted": 1.843039423079512e-09
+        },
+        "t8_bump_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.846281153193172e-10,
+          "relative_rms_including_unresolved_modes": 1.1382801232580434e-09,
+          "relative_rms_restricted": 9.766737458243307e-10
+        },
+        "t8_bump_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.2817519490643885e-16,
+          "relative_rms_including_unresolved_modes": 5.03926672131973e-10,
+          "relative_rms_restricted": 5.039266721319212e-10
+        },
+        "t8_bump_T12_lab": {
+          "reference_unresolved_rms_fraction": 5.336193421340468e-10,
+          "relative_rms_including_unresolved_modes": 1.0391047213617283e-09,
+          "relative_rms_restricted": 8.916215675143025e-10
+        },
+        "t8_bump_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.4305296553630677e-16,
+          "relative_rms_including_unresolved_modes": 4.61232056337568e-10,
+          "relative_rms_restricted": 4.6123205633750387e-10
+        },
+        "t8_bump_T16_lab": {
+          "reference_unresolved_rms_fraction": 4.6145699289176387e-10,
+          "relative_rms_including_unresolved_modes": 8.988781560058888e-10,
+          "relative_rms_restricted": 7.713879588480997e-10
+        },
+        "t8_bump_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.184951489936149e-16,
+          "relative_rms_including_unresolved_modes": 4.009455272295474e-10,
+          "relative_rms_restricted": 4.0094552722948777e-10
+        },
+        "t8_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.806703585999846e-09,
+          "relative_rms_including_unresolved_modes": 9.212659979392754e-09,
+          "relative_rms_restricted": 9.033765884072943e-09
+        },
+        "t8_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.1467991567807953e-16,
+          "relative_rms_including_unresolved_modes": 1.1868474939953454e-08,
+          "relative_rms_restricted": 1.1868474939953447e-08
+        },
+        "t8_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.3010338251566657e-09,
+          "relative_rms_including_unresolved_modes": 2.5344296782199976e-09,
+          "relative_rms_restricted": 2.1750045470390485e-09
+        },
+        "t8_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.1520283651263535e-16,
+          "relative_rms_including_unresolved_modes": 1.1322875918631026e-09,
+          "relative_rms_restricted": 1.132287591863082e-09
+        },
+        "t8_bump_T3_lab": {
+          "reference_unresolved_rms_fraction": 1.064534722913237e-09,
+          "relative_rms_including_unresolved_modes": 2.072140648926055e-09,
+          "relative_rms_restricted": 1.777788708661333e-09
+        },
+        "t8_bump_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.297912048850689e-16,
+          "relative_rms_including_unresolved_modes": 9.079660056856947e-10,
+          "relative_rms_restricted": 9.079660056856656e-10
+        },
+        "t8_bump_T4_lab": {
+          "reference_unresolved_rms_fraction": 9.223791607310101e-10,
+          "relative_rms_including_unresolved_modes": 1.7950414552612549e-09,
+          "relative_rms_restricted": 1.5399319822497356e-09
+        },
+        "t8_bump_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.2592825994764687e-16,
+          "relative_rms_including_unresolved_modes": 7.873678879204866e-10,
+          "relative_rms_restricted": 7.873678879204542e-10
+        },
+        "t8_bump_T6_lab": {
+          "reference_unresolved_rms_fraction": 7.539227466023534e-10,
+          "relative_rms_including_unresolved_modes": 1.4676467583761152e-09,
+          "relative_rms_restricted": 1.2592011354535396e-09
+        },
+        "t8_bump_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.2406142536812093e-16,
+          "relative_rms_including_unresolved_modes": 6.455097800206251e-10,
+          "relative_rms_restricted": 6.455097800205862e-10
+        },
+        "t8_bump_T8_lab": {
+          "reference_unresolved_rms_fraction": 6.531688901236241e-10,
+          "relative_rms_including_unresolved_modes": 1.271723534987834e-09,
+          "relative_rms_restricted": 1.0911696249514213e-09
+        },
+        "t8_bump_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.2035117894221403e-16,
+          "relative_rms_including_unresolved_modes": 5.614385408535539e-10,
+          "relative_rms_restricted": 5.614385408535107e-10
+        },
+        "t8_instant": {
+          "reference_unresolved_rms_fraction": 1.9125925255571507e-08,
+          "relative_rms_including_unresolved_modes": 2.7048142889363327e-08,
+          "relative_rms_restricted": 1.9125925255571507e-08
+        }
+      },
+      "max_field_relative_rms": 0.00026093092764787045,
+      "max_observable_absolute_change": 0.00013374940300159288,
+      "observable_absolute_changes": {
+        "t3_boxcar_T0.5_lab_error_balanced": 3.9875527376997955e-05,
+        "t3_boxcar_T0.5_lab_error_full": 3.6677386877813356e-05,
+        "t3_boxcar_T0.5_wave_error_balanced": 1.9674422946369674e-07,
+        "t3_boxcar_T0.5_wave_error_full": 1.0623500243641185e-06,
+        "t3_boxcar_T1_lab_error_balanced": 2.113606834386328e-05,
+        "t3_boxcar_T1_lab_error_full": 1.5085361846745027e-05,
+        "t3_boxcar_T1_wave_error_balanced": 2.0108766823900837e-07,
+        "t3_boxcar_T1_wave_error_full": 8.345507456104795e-09,
+        "t3_boxcar_T2_lab_error_balanced": 8.635525760761209e-06,
+        "t3_boxcar_T2_lab_error_full": 6.46153806405092e-06,
+        "t3_boxcar_T2_wave_error_balanced": 1.8139825613827654e-07,
+        "t3_boxcar_T2_wave_error_full": 2.7793968964372195e-07,
+        "t3_bump_T0.5_lab_error_balanced": 4.061881604955353e-07,
+        "t3_bump_T0.5_lab_error_full": 4.255353909139725e-07,
+        "t3_bump_T0.5_wave_error_balanced": 1.7819115627482063e-09,
+        "t3_bump_T0.5_wave_error_full": 1.593775262914883e-08,
+        "t3_bump_T1_lab_error_balanced": 2.0267072187163393e-09,
+        "t3_bump_T1_lab_error_full": 1.6882816533669853e-09,
+        "t3_bump_T1_wave_error_balanced": 1.748845512850039e-11,
+        "t3_bump_T1_wave_error_full": 3.215880036225305e-11,
+        "t3_bump_T2_lab_error_balanced": 8.118644645449535e-13,
+        "t3_bump_T2_lab_error_full": 1.8095525078365426e-12,
+        "t3_bump_T2_wave_error_balanced": 1.569133711853965e-12,
+        "t3_bump_T2_wave_error_full": 7.609407895459164e-13,
+        "t8_boxcar_T0.5_lab_retention": 0.00013374940300159288,
+        "t8_boxcar_T0.5_wave_retention": 3.379975173745109e-06,
+        "t8_boxcar_T1.5_lab_retention": 2.5819947392369258e-05,
+        "t8_boxcar_T1.5_wave_retention": 1.112005744152711e-06,
+        "t8_boxcar_T10_lab_retention": 4.8158073015225344e-06,
+        "t8_boxcar_T10_wave_retention": 2.2792524889680976e-07,
+        "t8_boxcar_T12_lab_retention": 5.055062651394826e-06,
+        "t8_boxcar_T12_wave_retention": 1.581119581928192e-07,
+        "t8_boxcar_T16_lab_retention": 2.8086230805801637e-06,
+        "t8_boxcar_T16_wave_retention": 7.895311271433059e-08,
+        "t8_boxcar_T1_lab_retention": 6.762216882982841e-05,
+        "t8_boxcar_T1_wave_retention": 1.6131270695884936e-06,
+        "t8_boxcar_T2_lab_retention": 3.171123315695579e-05,
+        "t8_boxcar_T2_wave_retention": 9.682104140651404e-07,
+        "t8_boxcar_T3_lab_retention": 1.6391692088765786e-05,
+        "t8_boxcar_T3_wave_retention": 7.087017026563558e-07,
+        "t8_boxcar_T4_lab_retention": 1.5244188946980652e-05,
+        "t8_boxcar_T4_wave_retention": 5.908688351929925e-07,
+        "t8_boxcar_T6_lab_retention": 9.35338988176243e-06,
+        "t8_boxcar_T6_wave_retention": 4.3635356505866696e-07,
+        "t8_boxcar_T8_lab_retention": 6.431456100387811e-06,
+        "t8_boxcar_T8_wave_retention": 3.2322531640094354e-07,
+        "t8_bump_T0.5_lab_retention": 1.4516558194399565e-06,
+        "t8_bump_T0.5_wave_retention": 4.886549243021676e-08,
+        "t8_bump_T1.5_lab_retention": 9.422063129704839e-11,
+        "t8_bump_T1.5_wave_retention": 4.427125332995274e-12,
+        "t8_bump_T10_lab_retention": 3.1532623734342735e-12,
+        "t8_bump_T10_wave_retention": 3.8491432263754177e-13,
+        "t8_bump_T12_lab_retention": 1.5643337319959372e-12,
+        "t8_bump_T12_wave_retention": 2.793321129956894e-13,
+        "t8_bump_T16_lab_retention": 5.353564813681544e-13,
+        "t8_bump_T16_wave_retention": 5.627720511824919e-13,
+        "t8_bump_T1_lab_retention": 5.854284168549384e-09,
+        "t8_bump_T1_wave_retention": 1.4087553346087134e-10,
+        "t8_bump_T2_lab_retention": 3.0557223418270496e-12,
+        "t8_bump_T2_wave_retention": 1.9706458687096529e-13,
+        "t8_bump_T3_lab_retention": 1.625671819383001e-12,
+        "t8_bump_T3_wave_retention": 1.6622259124687844e-12,
+        "t8_bump_T4_lab_retention": 5.400471736471957e-13,
+        "t8_bump_T4_wave_retention": 2.9344304763867513e-12,
+        "t8_bump_T6_lab_retention": 2.6267078789832254e-12,
+        "t8_bump_T6_wave_retention": 1.4911405443740477e-12,
+        "t8_bump_T8_lab_retention": 1.3364725992559556e-12,
+        "t8_bump_T8_wave_retention": 4.2532644073389747e-13
+      },
+      "qualitative_orderings_preserved": {
+        "high": true,
+        "low": true
+      },
+      "source_report_sha256": "9f1fcea774b8e76c7ef03a755f4fff78e8645277867f28d1761b859617acec33"
+    },
+    "comparison_sampling_N512_dense_half": {
+      "changed_factors": {
+        "analysis_cadence": [
+          0.0125,
+          0.00625
+        ]
+      },
+      "fields": {
+        "t3_balanced": {
+          "reference_unresolved_rms_fraction": 2.259649441771838e-16,
+          "relative_rms_including_unresolved_modes": 3.1956268867625267e-16,
+          "relative_rms_restricted": 2.2596494417718383e-16
+        },
+        "t3_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.1363447437884844e-09,
+          "relative_rms_including_unresolved_modes": 4.192716339753427e-05,
+          "relative_rms_restricted": 4.192716334310693e-05
+        },
+        "t3_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.228014875397453e-16,
+          "relative_rms_including_unresolved_modes": 1.4576691441203783e-06,
+          "relative_rms_restricted": 1.4576691441203781e-06
+        },
+        "t3_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5479408385416191e-09,
+          "relative_rms_including_unresolved_modes": 2.2406722578947948e-05,
+          "relative_rms_restricted": 2.2406722525479163e-05
+        },
+        "t3_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.2015558102217899e-16,
+          "relative_rms_including_unresolved_modes": 8.166556580571171e-07,
+          "relative_rms_restricted": 8.166556580571171e-07
+        },
+        "t3_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.1044012047522324e-09,
+          "relative_rms_including_unresolved_modes": 9.784938159224473e-06,
+          "relative_rms_restricted": 9.78493809689899e-06
+        },
+        "t3_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2846463322238485e-16,
+          "relative_rms_including_unresolved_modes": 5.026230760336361e-07,
+          "relative_rms_restricted": 5.026230760336363e-07
+        },
+        "t3_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.4754254067973143e-09,
+          "relative_rms_including_unresolved_modes": 4.465638566874172e-07,
+          "relative_rms_restricted": 4.465569956551969e-07
+        },
+        "t3_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.333145479230475e-16,
+          "relative_rms_including_unresolved_modes": 1.795040575016672e-08,
+          "relative_rms_restricted": 1.795040575016672e-08
+        },
+        "t3_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.7771211398961184e-09,
+          "relative_rms_including_unresolved_modes": 4.008511309727643e-09,
+          "relative_rms_restricted": 3.593049314210527e-09
+        },
+        "t3_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.265480983568545e-16,
+          "relative_rms_including_unresolved_modes": 1.5473949389650559e-09,
+          "relative_rms_restricted": 1.5473949389650397e-09
+        },
+        "t3_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.2844260257998504e-09,
+          "relative_rms_including_unresolved_modes": 2.5025768653779358e-09,
+          "relative_rms_restricted": 2.147822327701446e-09
+        },
+        "t3_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.331005783086176e-16,
+          "relative_rms_including_unresolved_modes": 1.0948621601093845e-09,
+          "relative_rms_restricted": 1.0948621601093599e-09
+        },
+        "t3_instant": {
+          "reference_unresolved_rms_fraction": 1.8911315815751793e-08,
+          "relative_rms_including_unresolved_modes": 2.6744639308956998e-08,
+          "relative_rms_restricted": 1.891131581575179e-08
+        },
+        "t8_balanced": {
+          "reference_unresolved_rms_fraction": 2.344391908973546e-16,
+          "relative_rms_including_unresolved_modes": 3.3154708331881387e-16,
+          "relative_rms_restricted": 2.3443919089735454e-16
+        },
+        "t8_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.172708537075829e-09,
+          "relative_rms_including_unresolved_modes": 0.00026110713664386523,
+          "relative_rms_restricted": 0.00026110713663482564
+        },
+        "t8_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2169451530439565e-16,
+          "relative_rms_including_unresolved_modes": 1.2415908539448324e-05,
+          "relative_rms_restricted": 1.2415908539448326e-05
+        },
+        "t8_boxcar_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.2939318827343266e-09,
+          "relative_rms_including_unresolved_modes": 8.657183082855233e-05,
+          "relative_rms_restricted": 8.657183081888256e-05
+        },
+        "t8_boxcar_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2257078810943557e-16,
+          "relative_rms_including_unresolved_modes": 4.101749545236801e-06,
+          "relative_rms_restricted": 4.101749545236802e-06
+        },
+        "t8_boxcar_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.035881788750373e-10,
+          "relative_rms_including_unresolved_modes": 1.4012386748656831e-05,
+          "relative_rms_restricted": 1.4012386739607653e-05
+        },
+        "t8_boxcar_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.204336620893377e-16,
+          "relative_rms_including_unresolved_modes": 1.093887599458862e-06,
+          "relative_rms_restricted": 1.0938875994588617e-06
+        },
+        "t8_boxcar_T12_lab": {
+          "reference_unresolved_rms_fraction": 4.5979945727669884e-10,
+          "relative_rms_including_unresolved_modes": 1.1704322462651235e-05,
+          "relative_rms_restricted": 1.1704322453619722e-05
+        },
+        "t8_boxcar_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.129087061127541e-16,
+          "relative_rms_including_unresolved_modes": 8.332722600147901e-07,
+          "relative_rms_restricted": 8.332722600147902e-07
+        },
+        "t8_boxcar_T16_lab": {
+          "reference_unresolved_rms_fraction": 3.977819980524845e-10,
+          "relative_rms_including_unresolved_modes": 9.186732920808032e-06,
+          "relative_rms_restricted": 9.18673291219613e-06
+        },
+        "t8_boxcar_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.481797212332031e-16,
+          "relative_rms_including_unresolved_modes": 5.916672427230614e-07,
+          "relative_rms_restricted": 5.916672427230614e-07
+        },
+        "t8_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5708227232290355e-09,
+          "relative_rms_including_unresolved_modes": 0.0001322387521051165,
+          "relative_rms_restricted": 0.0001322387520957868
+        },
+        "t8_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.2634359017290716e-16,
+          "relative_rms_including_unresolved_modes": 6.299458095640854e-06,
+          "relative_rms_restricted": 6.299458095640854e-06
+        },
+        "t8_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.120693665859127e-09,
+          "relative_rms_including_unresolved_modes": 6.486867975599366e-05,
+          "relative_rms_restricted": 6.486867974631291e-05
+        },
+        "t8_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2083862838779312e-16,
+          "relative_rms_including_unresolved_modes": 3.1442477658568736e-06,
+          "relative_rms_restricted": 3.1442477658568728e-06
+        },
+        "t8_boxcar_T3_lab": {
+          "reference_unresolved_rms_fraction": 9.160662704455917e-10,
+          "relative_rms_including_unresolved_modes": 4.236048919611207e-05,
+          "relative_rms_restricted": 4.236048918620689e-05
+        },
+        "t8_boxcar_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.3436607335492783e-16,
+          "relative_rms_including_unresolved_modes": 2.2106039792384205e-06,
+          "relative_rms_restricted": 2.2106039792384205e-06
+        },
+        "t8_boxcar_T4_lab": {
+          "reference_unresolved_rms_fraction": 7.952753241190919e-10,
+          "relative_rms_including_unresolved_modes": 3.078538028621925e-05,
+          "relative_rms_restricted": 3.078538027594711e-05
+        },
+        "t8_boxcar_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.284752894881826e-16,
+          "relative_rms_including_unresolved_modes": 1.8042695346655564e-06,
+          "relative_rms_restricted": 1.8042695346655568e-06
+        },
+        "t8_boxcar_T6_lab": {
+          "reference_unresolved_rms_fraction": 6.498869920648407e-10,
+          "relative_rms_including_unresolved_modes": 2.0963439711638827e-05,
+          "relative_rms_restricted": 2.096343970156526e-05
+        },
+        "t8_boxcar_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.524036633096749e-16,
+          "relative_rms_including_unresolved_modes": 1.5018237591579666e-06,
+          "relative_rms_restricted": 1.5018237591579666e-06
+        },
+        "t8_boxcar_T8_lab": {
+          "reference_unresolved_rms_fraction": 5.62599888070533e-10,
+          "relative_rms_including_unresolved_modes": 1.6715339383129705e-05,
+          "relative_rms_restricted": 1.6715339373661804e-05
+        },
+        "t8_boxcar_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.4417128805336383e-16,
+          "relative_rms_including_unresolved_modes": 1.2534045673317994e-06,
+          "relative_rms_restricted": 1.2534045673317996e-06
+        },
+        "t8_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.510635984352252e-09,
+          "relative_rms_including_unresolved_modes": 9.048176329546589e-07,
+          "relative_rms_restricted": 9.048141497637105e-07
+        },
+        "t8_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.214726598018882e-16,
+          "relative_rms_including_unresolved_modes": 2.5631711974029323e-07,
+          "relative_rms_restricted": 2.5631711974029323e-07
+        },
+        "t8_bump_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.4933042004831162e-09,
+          "relative_rms_including_unresolved_modes": 2.9216374361170178e-09,
+          "relative_rms_restricted": 2.511176591349144e-09
+        },
+        "t8_bump_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.414476982644933e-16,
+          "relative_rms_including_unresolved_modes": 1.844778750146849e-09,
+          "relative_rms_restricted": 1.844778750146834e-09
+        },
+        "t8_bump_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.849071817546805e-10,
+          "relative_rms_including_unresolved_modes": 1.1379703094357457e-09,
+          "relative_rms_restricted": 9.761454880749507e-10
+        },
+        "t8_bump_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.22569249380215e-16,
+          "relative_rms_including_unresolved_modes": 5.019572655352252e-10,
+          "relative_rms_restricted": 5.019572655351758e-10
+        },
+        "t8_bump_T12_lab": {
+          "reference_unresolved_rms_fraction": 5.341672416431989e-10,
+          "relative_rms_including_unresolved_modes": 1.038833592194663e-09,
+          "relative_rms_restricted": 8.90977323071336e-10
+        },
+        "t8_bump_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.526000999083309e-16,
+          "relative_rms_including_unresolved_modes": 4.5920109680457303e-10,
+          "relative_rms_restricted": 4.5920109680450355e-10
+        },
+        "t8_bump_T16_lab": {
+          "reference_unresolved_rms_fraction": 4.6287089717505284e-10,
+          "relative_rms_including_unresolved_modes": 8.994303005641402e-10,
+          "relative_rms_restricted": 7.71184412524826e-10
+        },
+        "t8_bump_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.220890769986135e-16,
+          "relative_rms_including_unresolved_modes": 3.990295635773032e-10,
+          "relative_rms_restricted": 3.9902956357724143e-10
+        },
+        "t8_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.8068400919961042e-09,
+          "relative_rms_including_unresolved_modes": 9.219887362503858e-09,
+          "relative_rms_restricted": 9.041108994985836e-09
+        },
+        "t8_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.253820087495217e-16,
+          "relative_rms_including_unresolved_modes": 1.1898539088420227e-08,
+          "relative_rms_restricted": 1.1898539088420224e-08
+        },
+        "t8_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.3019579971438722e-09,
+          "relative_rms_including_unresolved_modes": 2.532822993551064e-09,
+          "relative_rms_restricted": 2.1725785809342065e-09
+        },
+        "t8_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.3471485793816967e-16,
+          "relative_rms_including_unresolved_modes": 1.1311555235943506e-09,
+          "relative_rms_restricted": 1.131155523594326e-09
+        },
+        "t8_bump_T3_lab": {
+          "reference_unresolved_rms_fraction": 1.0657777190884821e-09,
+          "relative_rms_including_unresolved_modes": 2.073650190308458e-09,
+          "relative_rms_restricted": 1.778803801789522e-09
+        },
+        "t8_bump_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.496480807732511e-16,
+          "relative_rms_including_unresolved_modes": 9.071346211544404e-10,
+          "relative_rms_restricted": 9.07134621154406e-10
+        },
+        "t8_bump_T4_lab": {
+          "reference_unresolved_rms_fraction": 9.230462830876772e-10,
+          "relative_rms_including_unresolved_modes": 1.7955396007962993e-09,
+          "relative_rms_restricted": 1.5401129884868053e-09
+        },
+        "t8_bump_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.295677058068207e-16,
+          "relative_rms_including_unresolved_modes": 7.87273128001295e-10,
+          "relative_rms_restricted": 7.872731280012617e-10
+        },
+        "t8_bump_T6_lab": {
+          "reference_unresolved_rms_fraction": 7.545830527507151e-10,
+          "relative_rms_including_unresolved_modes": 1.4674776515525411e-09,
+          "relative_rms_restricted": 1.2586083879855459e-09
+        },
+        "t8_bump_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.2872361995129404e-16,
+          "relative_rms_including_unresolved_modes": 6.447503434468528e-10,
+          "relative_rms_restricted": 6.447503434468123e-10
+        },
+        "t8_bump_T8_lab": {
+          "reference_unresolved_rms_fraction": 6.538301692870844e-10,
+          "relative_rms_including_unresolved_modes": 1.2719492018371209e-09,
+          "relative_rms_restricted": 1.0910366088193887e-09
+        },
+        "t8_bump_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.3234938824078716e-16,
+          "relative_rms_including_unresolved_modes": 5.599142600001012e-10,
+          "relative_rms_restricted": 5.59914260000053e-10
+        },
+        "t8_instant": {
+          "reference_unresolved_rms_fraction": 1.9128227892657305e-08,
+          "relative_rms_including_unresolved_modes": 2.705139930995929e-08,
+          "relative_rms_restricted": 1.912822789265731e-08
+        }
+      },
+      "max_field_relative_rms": 0.00026110713664386523,
+      "max_observable_absolute_change": 0.00013375139099258693,
+      "observable_absolute_changes": {
+        "t3_boxcar_T0.5_lab_error_balanced": 3.987552787970694e-05,
+        "t3_boxcar_T0.5_lab_error_full": 3.6677388536493494e-05,
+        "t3_boxcar_T0.5_wave_error_balanced": 1.9674460965957152e-07,
+        "t3_boxcar_T0.5_wave_error_full": 1.0623494336330953e-06,
+        "t3_boxcar_T1_lab_error_balanced": 2.1136068416582887e-05,
+        "t3_boxcar_T1_lab_error_full": 1.5085362007671854e-05,
+        "t3_boxcar_T1_wave_error_balanced": 2.0108848175492966e-07,
+        "t3_boxcar_T1_wave_error_full": 8.345409609894494e-09,
+        "t3_boxcar_T2_lab_error_balanced": 8.635525397170107e-06,
+        "t3_boxcar_T2_lab_error_full": 6.461537917556992e-06,
+        "t3_boxcar_T2_wave_error_balanced": 1.813983939169539e-07,
+        "t3_boxcar_T2_wave_error_full": 2.779395929068673e-07,
+        "t3_bump_T0.5_lab_error_balanced": 4.061887080020199e-07,
+        "t3_bump_T0.5_lab_error_full": 4.2553794049604576e-07,
+        "t3_bump_T0.5_wave_error_balanced": 1.782054337429173e-09,
+        "t3_bump_T0.5_wave_error_full": 1.5937596730851086e-08,
+        "t3_bump_T1_lab_error_balanced": 2.026268430821432e-09,
+        "t3_bump_T1_lab_error_full": 1.6874183855764002e-09,
+        "t3_bump_T1_wave_error_balanced": 1.6793955115446124e-11,
+        "t3_bump_T1_wave_error_full": 3.257138742746024e-11,
+        "t3_bump_T2_lab_error_balanced": 6.01504956954102e-13,
+        "t3_bump_T2_lab_error_full": 1.838307284174334e-12,
+        "t3_bump_T2_wave_error_balanced": 9.403033907062763e-13,
+        "t3_bump_T2_wave_error_full": 6.010600003825139e-13,
+        "t8_boxcar_T0.5_lab_retention": 0.00013375139099258693,
+        "t8_boxcar_T0.5_wave_retention": 3.384483251767101e-06,
+        "t8_boxcar_T1.5_lab_retention": 2.5823087052345706e-05,
+        "t8_boxcar_T1.5_wave_retention": 1.112898766697512e-06,
+        "t8_boxcar_T10_lab_retention": 4.816982414453108e-06,
+        "t8_boxcar_T10_wave_retention": 2.2818788580902805e-07,
+        "t8_boxcar_T12_lab_retention": 5.055914706793285e-06,
+        "t8_boxcar_T12_wave_retention": 1.5815786591488745e-07,
+        "t8_boxcar_T16_lab_retention": 2.8096394175079753e-06,
+        "t8_boxcar_T16_wave_retention": 7.898289011709636e-08,
+        "t8_boxcar_T1_lab_retention": 6.76227603460533e-05,
+        "t8_boxcar_T1_wave_retention": 1.6143857166639464e-06,
+        "t8_boxcar_T2_lab_retention": 3.17128990262594e-05,
+        "t8_boxcar_T2_wave_retention": 9.68598888539951e-07,
+        "t8_boxcar_T3_lab_retention": 1.6392606443121904e-05,
+        "t8_boxcar_T3_wave_retention": 7.077797457011314e-07,
+        "t8_boxcar_T4_lab_retention": 1.5244810611686477e-05,
+        "t8_boxcar_T4_wave_retention": 5.906149103118707e-07,
+        "t8_boxcar_T6_lab_retention": 9.354200667055501e-06,
+        "t8_boxcar_T6_wave_retention": 4.363730311540692e-07,
+        "t8_boxcar_T8_lab_retention": 6.432284249457965e-06,
+        "t8_boxcar_T8_wave_retention": 3.2360182034008034e-07,
+        "t8_bump_T0.5_lab_retention": 1.4516856414736878e-06,
+        "t8_bump_T0.5_wave_retention": 4.8971173005618596e-08,
+        "t8_bump_T1.5_lab_retention": 7.46593342704216e-11,
+        "t8_bump_T1.5_wave_retention": 1.0781042725227508e-11,
+        "t8_bump_T10_lab_retention": 8.20277873403441e-13,
+        "t8_bump_T10_wave_retention": 6.5922822756192545e-12,
+        "t8_bump_T12_lab_retention": 2.274140945002223e-12,
+        "t8_bump_T12_wave_retention": 6.342149028171207e-12,
+        "t8_bump_T16_lab_retention": 2.299967508112566e-12,
+        "t8_bump_T16_wave_retention": 4.926281604866745e-12,
+        "t8_bump_T1_lab_retention": 5.831927385457902e-09,
+        "t8_bump_T1_wave_retention": 1.22415411141219e-10,
+        "t8_bump_T2_lab_retention": 9.599987471631266e-12,
+        "t8_bump_T2_wave_retention": 1.3474443782968137e-11,
+        "t8_bump_T3_lab_retention": 7.427253256864219e-13,
+        "t8_bump_T3_wave_retention": 1.2263634552311942e-11,
+        "t8_bump_T4_lab_retention": 1.5725962199120147e-12,
+        "t8_bump_T4_wave_retention": 1.0081380175108734e-11,
+        "t8_bump_T6_lab_retention": 4.928349395250109e-13,
+        "t8_bump_T6_wave_retention": 7.609468610780823e-12,
+        "t8_bump_T8_lab_retention": 1.293215534658998e-12,
+        "t8_bump_T8_wave_retention": 6.9934058544163236e-12
+      },
+      "qualitative_orderings_preserved": {
+        "high": true,
+        "low": true
+      },
+      "source_report_sha256": "517db591bc115dbda445aab7aac288bcd8842e5a0eeab9784834fee9e3c63b0c"
+    },
+    "comparison_spatial_N256_N512": {
+      "changed_factors": {
+        "N": [
+          256,
+          512
+        ],
+        "fft_workers": [
+          1,
+          4
+        ],
+        "solver_backend": [
+          "canonical",
+          "fast"
+        ]
+      },
+      "fields": {
+        "t3_balanced": {
+          "reference_unresolved_rms_fraction": 7.758015491656741e-09,
+          "relative_rms_including_unresolved_modes": 1.9671157722004093e-08,
+          "relative_rms_restricted": 1.807671545815709e-08
+        },
+        "t3_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 1.5290650891810965e-07,
+          "relative_rms_including_unresolved_modes": 1.6248313854709753e-07,
+          "relative_rms_restricted": 5.495789154062787e-08
+        },
+        "t3_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.292084170063236e-06,
+          "relative_rms_including_unresolved_modes": 2.4048257494409505e-06,
+          "relative_rms_restricted": 7.276929589617694e-07
+        },
+        "t3_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 2.8049517514769075e-07,
+          "relative_rms_including_unresolved_modes": 3.023077347524646e-07,
+          "relative_rms_restricted": 1.127493823044444e-07
+        },
+        "t3_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 4.788321408430707e-06,
+          "relative_rms_including_unresolved_modes": 5.064401347508633e-06,
+          "relative_rms_restricted": 1.6492844200664106e-06
+        },
+        "t3_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.1939840119862547e-06,
+          "relative_rms_including_unresolved_modes": 1.3296148722355305e-06,
+          "relative_rms_restricted": 5.850452013234542e-07
+        },
+        "t3_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.6382854041264073e-05,
+          "relative_rms_including_unresolved_modes": 2.840120485394627e-05,
+          "relative_rms_restricted": 1.0515391094492986e-05
+        },
+        "t3_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 1.3218121242666175e-08,
+          "relative_rms_including_unresolved_modes": 1.4709460052042391e-08,
+          "relative_rms_restricted": 6.453641285104726e-09
+        },
+        "t3_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 1.9609127463308706e-06,
+          "relative_rms_including_unresolved_modes": 2.053265820553575e-06,
+          "relative_rms_restricted": 6.08869223341181e-07
+        },
+        "t3_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 4.197933458068954e-09,
+          "relative_rms_including_unresolved_modes": 5.189172296619144e-09,
+          "relative_rms_restricted": 3.0503874845050152e-09
+        },
+        "t3_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.946005490388157e-06,
+          "relative_rms_including_unresolved_modes": 3.101197437882736e-06,
+          "relative_rms_restricted": 9.687503286922931e-07
+        },
+        "t3_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.8921431091803464e-09,
+          "relative_rms_including_unresolved_modes": 2.705261758069218e-09,
+          "relative_rms_restricted": 1.9334517408130694e-09
+        },
+        "t3_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 9.648862330584335e-06,
+          "relative_rms_including_unresolved_modes": 1.0297363352788419e-05,
+          "relative_rms_restricted": 3.5965466417085243e-06
+        },
+        "t3_instant": {
+          "reference_unresolved_rms_fraction": 1.6943039105818414e-06,
+          "relative_rms_including_unresolved_modes": 1.770341870607207e-06,
+          "relative_rms_restricted": 5.132685431748771e-07
+        },
+        "t8_balanced": {
+          "reference_unresolved_rms_fraction": 2.5417349753028477e-05,
+          "relative_rms_including_unresolved_modes": 6.161062647079851e-05,
+          "relative_rms_restricted": 5.612332516602522e-05
+        },
+        "t8_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 0.0011236703883992262,
+          "relative_rms_including_unresolved_modes": 0.0031015114686962376,
+          "relative_rms_restricted": 0.002890804178807989
+        },
+        "t8_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 0.04543768024138692,
+          "relative_rms_including_unresolved_modes": 0.07024315908246839,
+          "relative_rms_restricted": 0.05362327132440077
+        },
+        "t8_boxcar_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 0.00037163792643439564,
+          "relative_rms_including_unresolved_modes": 0.001109522129504914,
+          "relative_rms_restricted": 0.0010454304177924469
+        },
+        "t8_boxcar_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 0.03432946483546584,
+          "relative_rms_including_unresolved_modes": 0.055682882305308844,
+          "relative_rms_restricted": 0.0438672894414356
+        },
+        "t8_boxcar_T10_lab": {
+          "reference_unresolved_rms_fraction": 6.234783971772675e-05,
+          "relative_rms_including_unresolved_modes": 0.00033160535575411026,
+          "relative_rms_restricted": 0.00032569135582585323
+        },
+        "t8_boxcar_T10_wave": {
+          "reference_unresolved_rms_fraction": 0.011688855087614565,
+          "relative_rms_including_unresolved_modes": 0.02348715952539299,
+          "relative_rms_restricted": 0.020373365961505387
+        },
+        "t8_boxcar_T12_lab": {
+          "reference_unresolved_rms_fraction": 5.322876057637046e-05,
+          "relative_rms_including_unresolved_modes": 0.0003144017921146122,
+          "relative_rms_restricted": 0.00030986317335950585
+        },
+        "t8_boxcar_T12_wave": {
+          "reference_unresolved_rms_fraction": 0.010340638356720302,
+          "relative_rms_including_unresolved_modes": 0.021453185849246898,
+          "relative_rms_restricted": 0.018797557409239215
+        },
+        "t8_boxcar_T16_lab": {
+          "reference_unresolved_rms_fraction": 4.208853720078255e-05,
+          "relative_rms_including_unresolved_modes": 0.00029051048707423994,
+          "relative_rms_restricted": 0.0002874454701030718
+        },
+        "t8_boxcar_T16_wave": {
+          "reference_unresolved_rms_fraction": 0.008917527351920675,
+          "relative_rms_including_unresolved_modes": 0.02002673573216965,
+          "relative_rms_restricted": 0.017932468381964564
+        },
+        "t8_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 0.0005607041931932644,
+          "relative_rms_including_unresolved_modes": 0.0016025876383637945,
+          "relative_rms_restricted": 0.0015012989892001232
+        },
+        "t8_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 0.03845454450020112,
+          "relative_rms_including_unresolved_modes": 0.06165056245087791,
+          "relative_rms_restricted": 0.04822321706398343
+        },
+        "t8_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 0.0002799314865287359,
+          "relative_rms_including_unresolved_modes": 0.0008561411635107543,
+          "relative_rms_restricted": 0.0008090834975477812
+        },
+        "t8_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 0.03159990431393741,
+          "relative_rms_including_unresolved_modes": 0.05146459883389524,
+          "relative_rms_restricted": 0.04064111578610115
+        },
+        "t8_boxcar_T3_lab": {
+          "reference_unresolved_rms_fraction": 0.00017812655127574312,
+          "relative_rms_including_unresolved_modes": 0.0006187456509751639,
+          "relative_rms_restricted": 0.0005925513677917795
+        },
+        "t8_boxcar_T3_wave": {
+          "reference_unresolved_rms_fraction": 0.02645212314346578,
+          "relative_rms_including_unresolved_modes": 0.04452612479061913,
+          "relative_rms_restricted": 0.03582958603491687
+        },
+        "t8_boxcar_T4_lab": {
+          "reference_unresolved_rms_fraction": 0.00013200060121630334,
+          "relative_rms_including_unresolved_modes": 0.0005011650323132743,
+          "relative_rms_restricted": 0.00048346895967048547
+        },
+        "t8_boxcar_T4_wave": {
+          "reference_unresolved_rms_fraction": 0.022377313813714498,
+          "relative_rms_including_unresolved_modes": 0.0392155158662126,
+          "relative_rms_restricted": 0.03221229733135663
+        },
+        "t8_boxcar_T6_lab": {
+          "reference_unresolved_rms_fraction": 8.980186552782244e-05,
+          "relative_rms_including_unresolved_modes": 0.0003934692976647546,
+          "relative_rms_restricted": 0.00038308447415158335
+        },
+        "t8_boxcar_T6_wave": {
+          "reference_unresolved_rms_fraction": 0.016392828720085382,
+          "relative_rms_including_unresolved_modes": 0.03144477414441957,
+          "relative_rms_restricted": 0.026837334714957313
+        },
+        "t8_boxcar_T8_lab": {
+          "reference_unresolved_rms_fraction": 7.295785462363901e-05,
+          "relative_rms_including_unresolved_modes": 0.0003470531077805025,
+          "relative_rms_restricted": 0.0003392978215102528
+        },
+        "t8_boxcar_T8_wave": {
+          "reference_unresolved_rms_fraction": 0.013458741567378312,
+          "relative_rms_including_unresolved_modes": 0.026618662633383652,
+          "relative_rms_restricted": 0.02296760823332966
+        },
+        "t8_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 6.732435827112256e-05,
+          "relative_rms_including_unresolved_modes": 0.001504240851702148,
+          "relative_rms_restricted": 0.0015027335029699944
+        },
+        "t8_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 0.049205598780080975,
+          "relative_rms_including_unresolved_modes": 0.07381567516067557,
+          "relative_rms_restricted": 0.05509002674972828
+        },
+        "t8_bump_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 3.0772242077115337e-06,
+          "relative_rms_including_unresolved_modes": 0.00017760961549619233,
+          "relative_rms_restricted": 0.00017758295584931392
+        },
+        "t8_bump_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 0.038036632022582464,
+          "relative_rms_including_unresolved_modes": 0.06123374282603182,
+          "relative_rms_restricted": 0.0480221027127313
+        },
+        "t8_bump_T10_lab": {
+          "reference_unresolved_rms_fraction": 1.1449691141048028e-06,
+          "relative_rms_including_unresolved_modes": 2.271885888517785e-05,
+          "relative_rms_restricted": 2.2689988866745737e-05
+        },
+        "t8_bump_T10_wave": {
+          "reference_unresolved_rms_fraction": 0.015352716864060742,
+          "relative_rms_including_unresolved_modes": 0.028973471410319026,
+          "relative_rms_restricted": 0.02457434582850062
+        },
+        "t8_bump_T12_lab": {
+          "reference_unresolved_rms_fraction": 1.1764270934162316e-06,
+          "relative_rms_including_unresolved_modes": 2.228446382376993e-05,
+          "relative_rms_restricted": 2.2253389566703595e-05
+        },
+        "t8_bump_T12_wave": {
+          "reference_unresolved_rms_fraction": 0.013578609083768525,
+          "relative_rms_including_unresolved_modes": 0.026011874949168685,
+          "relative_rms_restricted": 0.022188505781388777
+        },
+        "t8_bump_T16_lab": {
+          "reference_unresolved_rms_fraction": 1.1649946970547897e-06,
+          "relative_rms_including_unresolved_modes": 2.1222208310086826e-05,
+          "relative_rms_restricted": 2.1190207948794694e-05
+        },
+        "t8_bump_T16_wave": {
+          "reference_unresolved_rms_fraction": 0.011153424384246501,
+          "relative_rms_including_unresolved_modes": 0.022009928187512913,
+          "relative_rms_restricted": 0.018975849315034498
+        },
+        "t8_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 5.9500680409529e-06,
+          "relative_rms_including_unresolved_modes": 0.00038784146120806224,
+          "relative_rms_restricted": 0.00038779581705794227
+        },
+        "t8_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 0.04220071756333737,
+          "relative_rms_including_unresolved_modes": 0.06666712476369448,
+          "relative_rms_restricted": 0.051656142325495015
+        },
+        "t8_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 2.572273548158892e-06,
+          "relative_rms_including_unresolved_modes": 0.00011710148517298919,
+          "relative_rms_restricted": 0.00011707323023904285
+        },
+        "t8_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 0.035096736683125455,
+          "relative_rms_including_unresolved_modes": 0.056994845495501906,
+          "relative_rms_restricted": 0.044934603581524006
+        },
+        "t8_bump_T3_lab": {
+          "reference_unresolved_rms_fraction": 2.025528900054645e-06,
+          "relative_rms_including_unresolved_modes": 5.949917829911213e-05,
+          "relative_rms_restricted": 5.946469079175546e-05
+        },
+        "t8_bump_T3_wave": {
+          "reference_unresolved_rms_fraction": 0.030905266151924366,
+          "relative_rms_including_unresolved_modes": 0.050733895924707076,
+          "relative_rms_restricted": 0.040253451582973346
+        },
+        "t8_bump_T4_lab": {
+          "reference_unresolved_rms_fraction": 1.6920387905456423e-06,
+          "relative_rms_including_unresolved_modes": 4.336924751482931e-05,
+          "relative_rms_restricted": 4.333622774006978e-05
+        },
+        "t8_bump_T4_wave": {
+          "reference_unresolved_rms_fraction": 0.02731829713976373,
+          "relative_rms_including_unresolved_modes": 0.045760516784180263,
+          "relative_rms_restricted": 0.036725224160075766
+        },
+        "t8_bump_T6_lab": {
+          "reference_unresolved_rms_fraction": 1.3304696503670323e-06,
+          "relative_rms_including_unresolved_modes": 3.0069939415264873e-05,
+          "relative_rms_restricted": 3.0040491123627617e-05
+        },
+        "t8_bump_T6_wave": {
+          "reference_unresolved_rms_fraction": 0.021873930257779887,
+          "relative_rms_including_unresolved_modes": 0.03829791781576002,
+          "relative_rms_restricted": 0.03144415307908031
+        },
+        "t8_bump_T8_lab": {
+          "reference_unresolved_rms_fraction": 1.1669726609781712e-06,
+          "relative_rms_including_unresolved_modes": 2.4333487267326916e-05,
+          "relative_rms_restricted": 2.4305488627026097e-05
+        },
+        "t8_bump_T8_wave": {
+          "reference_unresolved_rms_fraction": 0.01794286869794453,
+          "relative_rms_including_unresolved_modes": 0.03292787051495062,
+          "relative_rms_restricted": 0.027614192325954943
+        },
+        "t8_instant": {
+          "reference_unresolved_rms_fraction": 0.05509440334514338,
+          "relative_rms_including_unresolved_modes": 0.0789511034951944,
+          "relative_rms_restricted": 0.056635853051681014
+        }
+      },
+      "max_field_relative_rms": 0.0789511034951944,
+      "max_observable_absolute_change": 0.004202706330200701,
+      "observable_absolute_changes": {
+        "t3_boxcar_T0.5_lab_error_balanced": 3.875749832182862e-09,
+        "t3_boxcar_T0.5_lab_error_full": 4.566282706119917e-09,
+        "t3_boxcar_T0.5_wave_error_balanced": 4.62888916086257e-09,
+        "t3_boxcar_T0.5_wave_error_full": 1.0760503252327247e-10,
+        "t3_boxcar_T1_lab_error_balanced": 2.242186714074279e-09,
+        "t3_boxcar_T1_lab_error_full": 1.3128185788469082e-08,
+        "t3_boxcar_T1_wave_error_balanced": 4.618043891735368e-09,
+        "t3_boxcar_T1_wave_error_full": 1.774983901178806e-10,
+        "t3_boxcar_T2_lab_error_balanced": 6.294558069219747e-10,
+        "t3_boxcar_T2_lab_error_full": 2.6441041078850702e-08,
+        "t3_boxcar_T2_wave_error_balanced": 4.2904249597519595e-09,
+        "t3_boxcar_T2_wave_error_full": 1.2830241868933001e-09,
+        "t3_bump_T0.5_lab_error_balanced": 4.25274077064941e-09,
+        "t3_bump_T0.5_lab_error_full": 2.3543524872715604e-09,
+        "t3_bump_T0.5_wave_error_balanced": 4.6303075817988315e-09,
+        "t3_bump_T0.5_wave_error_full": 5.207445997849891e-11,
+        "t3_bump_T1_lab_error_balanced": 3.33245264716453e-09,
+        "t3_bump_T1_lab_error_full": 7.389156952974929e-09,
+        "t3_bump_T1_wave_error_balanced": 4.626259209050687e-09,
+        "t3_bump_T1_wave_error_full": 1.4324536869170235e-10,
+        "t3_bump_T2_lab_error_balanced": 1.1275090305851165e-09,
+        "t3_bump_T2_lab_error_full": 1.83746772519644e-08,
+        "t3_bump_T2_wave_error_balanced": 4.56477028398794e-09,
+        "t3_bump_T2_wave_error_full": 4.272793750759174e-11,
+        "t8_boxcar_T0.5_lab_retention": 8.051749162563127e-05,
+        "t8_boxcar_T0.5_wave_retention": 0.003665193661112731,
+        "t8_boxcar_T1.5_lab_retention": 2.5524779243141227e-05,
+        "t8_boxcar_T1.5_wave_retention": 0.0035934395243980566,
+        "t8_boxcar_T10_lab_retention": 8.127433375498122e-05,
+        "t8_boxcar_T10_wave_retention": 0.00047658634308267445,
+        "t8_boxcar_T12_lab_retention": 0.00012689725519440115,
+        "t8_boxcar_T12_wave_retention": 0.00011430712968563128,
+        "t8_boxcar_T16_lab_retention": 4.722088532233687e-05,
+        "t8_boxcar_T16_wave_retention": 0.00012570835830638671,
+        "t8_boxcar_T1_lab_retention": 1.0928251731823213e-05,
+        "t8_boxcar_T1_wave_retention": 0.00414873088641543,
+        "t8_boxcar_T2_lab_retention": 0.00010247249922129553,
+        "t8_boxcar_T2_wave_retention": 0.0030720332881069012,
+        "t8_boxcar_T3_lab_retention": 2.4389635618307648e-05,
+        "t8_boxcar_T3_wave_retention": 0.0029241945485772858,
+        "t8_boxcar_T4_lab_retention": 7.359370759478512e-05,
+        "t8_boxcar_T4_wave_retention": 0.002767531041569571,
+        "t8_boxcar_T6_lab_retention": 4.8618437095762634e-05,
+        "t8_boxcar_T6_wave_retention": 0.001886930191637215,
+        "t8_boxcar_T8_lab_retention": 2.2513617441211053e-05,
+        "t8_boxcar_T8_wave_retention": 0.0010690791228527008,
+        "t8_bump_T0.5_lab_retention": 0.00035730885462226247,
+        "t8_bump_T0.5_wave_retention": 0.0024944143126720553,
+        "t8_bump_T1.5_lab_retention": 1.652565439830278e-05,
+        "t8_bump_T1.5_wave_retention": 0.004199711791280092,
+        "t8_bump_T10_lab_retention": 1.641981188712019e-06,
+        "t8_bump_T10_wave_retention": 0.0014175580633618567,
+        "t8_bump_T12_lab_retention": 9.137644091869457e-07,
+        "t8_bump_T12_wave_retention": 0.000958855917897683,
+        "t8_bump_T16_lab_retention": 1.7601082699901516e-06,
+        "t8_bump_T16_wave_retention": 0.0003441593871641446,
+        "t8_bump_T1_lab_retention": 1.6862082092505837e-05,
+        "t8_bump_T1_wave_retention": 0.004202706330200701,
+        "t8_bump_T2_lab_retention": 2.607962945755382e-05,
+        "t8_bump_T2_wave_retention": 0.003832416828395191,
+        "t8_bump_T3_lab_retention": 3.889854504263157e-05,
+        "t8_bump_T3_wave_retention": 0.0032001667834944403,
+        "t8_bump_T4_lab_retention": 5.786447153266483e-06,
+        "t8_bump_T4_wave_retention": 0.002988654526963397,
+        "t8_bump_T6_lab_retention": 8.094077369982106e-06,
+        "t8_bump_T6_wave_retention": 0.002548136062434647,
+        "t8_bump_T8_lab_retention": 6.496091211165289e-07,
+        "t8_bump_T8_wave_retention": 0.0019697129481498488
+      },
+      "qualitative_orderings_preserved": {
+        "high": true,
+        "low": true
+      },
+      "source_report_sha256": "9c095716f18e3b51a8fde47d426a3b588a376ef138d318f2ab90b0b4c5683991"
+    },
+    "comparison_spatial_N512_N1024": {
+      "changed_factors": {
+        "N": [
+          512,
+          1024
+        ],
+        "fft_workers": [
+          4,
+          16
+        ]
+      },
+      "fields": {
+        "t3_balanced": {
+          "reference_unresolved_rms_fraction": 7.640496121706035e-09,
+          "relative_rms_including_unresolved_modes": 1.0819895119589567e-08,
+          "relative_rms_restricted": 7.661132384518176e-09
+        },
+        "t3_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.700695532030079e-09,
+          "relative_rms_including_unresolved_modes": 3.824308098592189e-09,
+          "relative_rms_restricted": 2.7076883270108038e-09
+        },
+        "t3_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 3.007228818082701e-09,
+          "relative_rms_including_unresolved_modes": 3.529759415213074e-09,
+          "relative_rms_restricted": 1.8481819079782872e-09
+        },
+        "t3_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 2.173417807718768e-09,
+          "relative_rms_including_unresolved_modes": 2.959348405448767e-09,
+          "relative_rms_restricted": 2.0084815204335603e-09
+        },
+        "t3_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 1.8937461692936e-08,
+          "relative_rms_including_unresolved_modes": 2.0187590626985547e-08,
+          "relative_rms_restricted": 6.9936657020003715e-09
+        },
+        "t3_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 3.100136750387985e-08,
+          "relative_rms_including_unresolved_modes": 3.460869077926736e-08,
+          "relative_rms_restricted": 1.5384300125268232e-08
+        },
+        "t3_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 8.372002306000372e-07,
+          "relative_rms_including_unresolved_modes": 9.086236363417726e-07,
+          "relative_rms_restricted": 3.5311851608529076e-07
+        },
+        "t3_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 3.1223393767382923e-09,
+          "relative_rms_including_unresolved_modes": 4.422725275633406e-09,
+          "relative_rms_restricted": 3.132330710540655e-09
+        },
+        "t3_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.413437864591568e-09,
+          "relative_rms_including_unresolved_modes": 3.1140851529640144e-09,
+          "relative_rms_restricted": 1.9679542712336078e-09
+        },
+        "t3_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 2.2429675101936575e-09,
+          "relative_rms_including_unresolved_modes": 3.178465414071939e-09,
+          "relative_rms_restricted": 2.2520522055820925e-09
+        },
+        "t3_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 6.002344440178208e-09,
+          "relative_rms_including_unresolved_modes": 6.4868787059657124e-09,
+          "relative_rms_restricted": 2.459970846854319e-09
+        },
+        "t3_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.6222858147687226e-09,
+          "relative_rms_including_unresolved_modes": 2.3050758984848036e-09,
+          "relative_rms_restricted": 1.6375480551653159e-09
+        },
+        "t3_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 1.262979508193891e-07,
+          "relative_rms_including_unresolved_modes": 1.3602457895826146e-07,
+          "relative_rms_restricted": 5.051251032759628e-08
+        },
+        "t3_instant": {
+          "reference_unresolved_rms_fraction": 2.388389577659166e-08,
+          "relative_rms_including_unresolved_modes": 3.3804814701546956e-08,
+          "relative_rms_restricted": 2.3923315396048942e-08
+        },
+        "t8_balanced": {
+          "reference_unresolved_rms_fraction": 1.0359544867100664e-05,
+          "relative_rms_including_unresolved_modes": 3.971013275319527e-05,
+          "relative_rms_restricted": 3.833502932802628e-05
+        },
+        "t8_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 0.00037957217489867676,
+          "relative_rms_including_unresolved_modes": 0.002034708625239773,
+          "relative_rms_restricted": 0.0019989909277899624
+        },
+        "t8_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 0.02891821071459108,
+          "relative_rms_including_unresolved_modes": 0.05763224248858718,
+          "relative_rms_restricted": 0.04987276304548428
+        },
+        "t8_boxcar_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 0.00013146805592988739,
+          "relative_rms_including_unresolved_modes": 0.0007296153713490973,
+          "relative_rms_restricted": 0.0007176731493382109
+        },
+        "t8_boxcar_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 0.02003595211804191,
+          "relative_rms_including_unresolved_modes": 0.04164638429169769,
+          "relative_rms_restricted": 0.03651735578651901
+        },
+        "t8_boxcar_T10_lab": {
+          "reference_unresolved_rms_fraction": 2.3932764073563372e-05,
+          "relative_rms_including_unresolved_modes": 0.00022134408008626358,
+          "relative_rms_restricted": 0.00022004641469646255
+        },
+        "t8_boxcar_T10_wave": {
+          "reference_unresolved_rms_fraction": 0.006344260266956572,
+          "relative_rms_including_unresolved_modes": 0.01662085872840722,
+          "relative_rms_restricted": 0.015362708288738314
+        },
+        "t8_boxcar_T12_lab": {
+          "reference_unresolved_rms_fraction": 2.0758992177152605e-05,
+          "relative_rms_including_unresolved_modes": 0.0002146543178287459,
+          "relative_rms_restricted": 0.00021364816972298977
+        },
+        "t8_boxcar_T12_wave": {
+          "reference_unresolved_rms_fraction": 0.00580717450657391,
+          "relative_rms_including_unresolved_modes": 0.015443152994974948,
+          "relative_rms_restricted": 0.014309947740884682
+        },
+        "t8_boxcar_T16_lab": {
+          "reference_unresolved_rms_fraction": 1.675225947421826e-05,
+          "relative_rms_including_unresolved_modes": 0.00022413895143900384,
+          "relative_rms_restricted": 0.00022351203853194265
+        },
+        "t8_boxcar_T16_wave": {
+          "reference_unresolved_rms_fraction": 0.005280524725795972,
+          "relative_rms_including_unresolved_modes": 0.014476790168332313,
+          "relative_rms_restricted": 0.013479561516262194
+        },
+        "t8_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 0.00019786361253278374,
+          "relative_rms_including_unresolved_modes": 0.0010325534202235073,
+          "relative_rms_restricted": 0.0010134182733000472
+        },
+        "t8_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 0.02299750835450802,
+          "relative_rms_including_unresolved_modes": 0.04720210619911317,
+          "relative_rms_restricted": 0.0412316937814247
+        },
+        "t8_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 9.789383701088301e-05,
+          "relative_rms_including_unresolved_modes": 0.0005598887641070566,
+          "relative_rms_restricted": 0.0005512642086702845
+        },
+        "t8_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 0.017790185649854094,
+          "relative_rms_including_unresolved_modes": 0.037714797433359565,
+          "relative_rms_restricted": 0.03326056768439363
+        },
+        "t8_boxcar_T3_lab": {
+          "reference_unresolved_rms_fraction": 6.348709946184891e-05,
+          "relative_rms_including_unresolved_modes": 0.00040662355164522885,
+          "relative_rms_restricted": 0.0004016367782022557
+        },
+        "t8_boxcar_T3_wave": {
+          "reference_unresolved_rms_fraction": 0.013779286781647316,
+          "relative_rms_including_unresolved_modes": 0.03098396927060342,
+          "relative_rms_restricted": 0.027753988188728363
+        },
+        "t8_boxcar_T4_lab": {
+          "reference_unresolved_rms_fraction": 4.7207280381284796e-05,
+          "relative_rms_including_unresolved_modes": 0.0003366347531382168,
+          "relative_rms_restricted": 0.0003333083106479763
+        },
+        "t8_boxcar_T4_wave": {
+          "reference_unresolved_rms_fraction": 0.011594722049852414,
+          "relative_rms_including_unresolved_modes": 0.026816300814646553,
+          "relative_rms_restricted": 0.02418170843877917
+        },
+        "t8_boxcar_T6_lab": {
+          "reference_unresolved_rms_fraction": 3.3752647805530143e-05,
+          "relative_rms_including_unresolved_modes": 0.00027406520372667343,
+          "relative_rms_restricted": 0.00027197884981029573
+        },
+        "t8_boxcar_T6_wave": {
+          "reference_unresolved_rms_fraction": 0.008743297449340394,
+          "relative_rms_including_unresolved_modes": 0.0214555000269776,
+          "relative_rms_restricted": 0.019593942435807192
+        },
+        "t8_boxcar_T8_lab": {
+          "reference_unresolved_rms_fraction": 2.7742618285430906e-05,
+          "relative_rms_including_unresolved_modes": 0.0002366992810462125,
+          "relative_rms_restricted": 0.00023506785577996704
+        },
+        "t8_boxcar_T8_wave": {
+          "reference_unresolved_rms_fraction": 0.007213073042849476,
+          "relative_rms_including_unresolved_modes": 0.01854680876645938,
+          "relative_rms_restricted": 0.017087155511748605
+        },
+        "t8_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 5.902196857847192e-06,
+          "relative_rms_including_unresolved_modes": 0.0012036366495468557,
+          "relative_rms_restricted": 0.001203622178366242
+        },
+        "t8_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 0.03263493443697698,
+          "relative_rms_including_unresolved_modes": 0.06309722738119909,
+          "relative_rms_restricted": 0.0540308278486978
+        },
+        "t8_bump_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 2.4927877404832345e-06,
+          "relative_rms_including_unresolved_modes": 0.00017251560916177979,
+          "relative_rms_restricted": 0.00017249759828451446
+        },
+        "t8_bump_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 0.022517460819636834,
+          "relative_rms_including_unresolved_modes": 0.046624600020328616,
+          "relative_rms_restricted": 0.04083702793375692
+        },
+        "t8_bump_T10_lab": {
+          "reference_unresolved_rms_fraction": 1.0920263955091454e-06,
+          "relative_rms_including_unresolved_modes": 2.7046918252733713e-05,
+          "relative_rms_restricted": 2.702486383540985e-05
+        },
+        "t8_bump_T10_wave": {
+          "reference_unresolved_rms_fraction": 0.008105099962486798,
+          "relative_rms_including_unresolved_modes": 0.019965919532027622,
+          "relative_rms_restricted": 0.018247388055603577
+        },
+        "t8_bump_T12_lab": {
+          "reference_unresolved_rms_fraction": 1.0950713933244329e-06,
+          "relative_rms_including_unresolved_modes": 2.4308441724502663e-05,
+          "relative_rms_restricted": 2.4283763252794488e-05
+        },
+        "t8_bump_T12_wave": {
+          "reference_unresolved_rms_fraction": 0.007184652453561,
+          "relative_rms_including_unresolved_modes": 0.018098944861006976,
+          "relative_rms_restricted": 0.01661224907705985
+        },
+        "t8_bump_T16_lab": {
+          "reference_unresolved_rms_fraction": 1.111317207000853e-06,
+          "relative_rms_including_unresolved_modes": 2.1152568945319595e-05,
+          "relative_rms_restricted": 2.112335548752787e-05
+        },
+        "t8_bump_T16_wave": {
+          "reference_unresolved_rms_fraction": 0.00603108190937428,
+          "relative_rms_including_unresolved_modes": 0.015634101787076523,
+          "relative_rms_restricted": 0.014424242011617992
+        },
+        "t8_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 2.9958046714409716e-06,
+          "relative_rms_including_unresolved_modes": 0.00034634844446494983,
+          "relative_rms_restricted": 0.0003463354878419731
+        },
+        "t8_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 0.02577846448337723,
+          "relative_rms_including_unresolved_modes": 0.052683152671035564,
+          "relative_rms_restricted": 0.045960734203619215
+        },
+        "t8_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 2.1904740640873956e-06,
+          "relative_rms_including_unresolved_modes": 0.00011860813706069091,
+          "relative_rms_restricted": 0.0001185879083231072
+        },
+        "t8_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 0.020362656460751104,
+          "relative_rms_including_unresolved_modes": 0.042576453652590406,
+          "relative_rms_restricted": 0.03739915212855507
+        },
+        "t8_bump_T3_lab": {
+          "reference_unresolved_rms_fraction": 1.843916211337312e-06,
+          "relative_rms_including_unresolved_modes": 6.93733355957528e-05,
+          "relative_rms_restricted": 6.934882597926848e-05
+        },
+        "t8_bump_T3_wave": {
+          "reference_unresolved_rms_fraction": 0.017157087354226355,
+          "relative_rms_including_unresolved_modes": 0.036786261832503046,
+          "relative_rms_restricted": 0.03254497192994317
+        },
+        "t8_bump_T4_lab": {
+          "reference_unresolved_rms_fraction": 1.6335642397565568e-06,
+          "relative_rms_including_unresolved_modes": 5.2071012489548224e-05,
+          "relative_rms_restricted": 5.204538221176308e-05
+        },
+        "t8_bump_T4_wave": {
+          "reference_unresolved_rms_fraction": 0.014488231182867992,
+          "relative_rms_including_unresolved_modes": 0.032190286810397914,
+          "relative_rms_restricted": 0.02874855139692233
+        },
+        "t8_bump_T6_lab": {
+          "reference_unresolved_rms_fraction": 1.3214649332624169e-06,
+          "relative_rms_including_unresolved_modes": 3.8784839150493904e-05,
+          "relative_rms_restricted": 3.8762320342859585e-05
+        },
+        "t8_bump_T6_wave": {
+          "reference_unresolved_rms_fraction": 0.011381671280521406,
+          "relative_rms_including_unresolved_modes": 0.026335262127575327,
+          "relative_rms_restricted": 0.02375029814671913
+        },
+        "t8_bump_T8_lab": {
+          "reference_unresolved_rms_fraction": 1.1576218219153902e-06,
+          "relative_rms_including_unresolved_modes": 3.1827311421059044e-05,
+          "relative_rms_restricted": 3.18062519642264e-05
+        },
+        "t8_bump_T8_wave": {
+          "reference_unresolved_rms_fraction": 0.00942715918673525,
+          "relative_rms_including_unresolved_modes": 0.022546719031178206,
+          "relative_rms_restricted": 0.020482199395647913
+        },
+        "t8_instant": {
+          "reference_unresolved_rms_fraction": 0.04691578244908079,
+          "relative_rms_including_unresolved_modes": 0.07614869657339096,
+          "relative_rms_restricted": 0.060045560300341805
+        }
+      },
+      "max_field_relative_rms": 0.07614869657339096,
+      "max_observable_absolute_change": 0.0036663928117166567,
+      "observable_absolute_changes": {
+        "t3_boxcar_T0.5_lab_error_balanced": 1.9246548799145557e-11,
+        "t3_boxcar_T0.5_lab_error_full": 4.584179945366085e-09,
+        "t3_boxcar_T0.5_wave_error_balanced": 1.9081847213442416e-11,
+        "t3_boxcar_T0.5_wave_error_full": 1.6769283834802695e-10,
+        "t3_boxcar_T1_lab_error_balanced": 1.1044665182424751e-11,
+        "t3_boxcar_T1_lab_error_full": 1.3178056673668337e-08,
+        "t3_boxcar_T1_wave_error_balanced": 2.100219997913655e-11,
+        "t3_boxcar_T1_wave_error_full": 4.3086613096821047e-10,
+        "t3_boxcar_T2_lab_error_balanced": 3.617245392106838e-12,
+        "t3_boxcar_T2_lab_error_full": 2.647133717781358e-08,
+        "t3_boxcar_T2_wave_error_balanced": 1.9650114868596802e-11,
+        "t3_boxcar_T2_wave_error_full": 8.070535403165158e-10,
+        "t3_bump_T0.5_lab_error_balanced": 2.045541513950866e-11,
+        "t3_bump_T0.5_lab_error_full": 2.36378045262442e-09,
+        "t3_bump_T0.5_wave_error_balanced": 2.0982104942390833e-11,
+        "t3_bump_T0.5_wave_error_full": 7.460946487361508e-11,
+        "t3_bump_T1_lab_error_balanced": 1.7371160065948743e-11,
+        "t3_bump_T1_lab_error_full": 7.42534755904245e-09,
+        "t3_bump_T1_wave_error_balanced": 1.9199752898657607e-11,
+        "t3_bump_T1_wave_error_full": 2.64967630735774e-10,
+        "t3_bump_T2_lab_error_balanced": 5.452166496056066e-12,
+        "t3_bump_T2_lab_error_full": 1.8435777349168347e-08,
+        "t3_bump_T2_wave_error_balanced": 2.043687441499742e-11,
+        "t3_bump_T2_wave_error_full": 5.303516870461267e-10,
+        "t8_boxcar_T0.5_lab_retention": 0.0003268240451850257,
+        "t8_boxcar_T0.5_wave_retention": 0.00342966139712364,
+        "t8_boxcar_T1.5_lab_retention": 5.6000932142336035e-05,
+        "t8_boxcar_T1.5_wave_retention": 0.0024336026971794045,
+        "t8_boxcar_T10_lab_retention": 5.161158136324229e-05,
+        "t8_boxcar_T10_wave_retention": 0.0008514994221515693,
+        "t8_boxcar_T12_lab_retention": 0.00010016307403437619,
+        "t8_boxcar_T12_wave_retention": 0.0007559333955249325,
+        "t8_boxcar_T16_lab_retention": 3.200248200567468e-05,
+        "t8_boxcar_T16_wave_retention": 0.0006684637719019948,
+        "t8_boxcar_T1_lab_retention": 0.00013251595071495093,
+        "t8_boxcar_T1_wave_retention": 0.00283718037965619,
+        "t8_boxcar_T2_lab_retention": 9.61410334250623e-05,
+        "t8_boxcar_T2_wave_retention": 0.002238517680250185,
+        "t8_boxcar_T3_lab_retention": 3.456219813689765e-05,
+        "t8_boxcar_T3_wave_retention": 0.0017243432860283292,
+        "t8_boxcar_T4_lab_retention": 6.405384366149625e-05,
+        "t8_boxcar_T4_wave_retention": 0.001368722312339421,
+        "t8_boxcar_T6_lab_retention": 4.752431507744348e-05,
+        "t8_boxcar_T6_wave_retention": 0.0011178723280893532,
+        "t8_boxcar_T8_lab_retention": 2.7089185458635534e-05,
+        "t8_boxcar_T8_wave_retention": 0.001025665233927997,
+        "t8_bump_T0.5_lab_retention": 0.0005831632498405348,
+        "t8_bump_T0.5_wave_retention": 0.0036663928117166567,
+        "t8_bump_T1.5_lab_retention": 0.0001069187448087261,
+        "t8_bump_T1.5_wave_retention": 0.0028211994832965104,
+        "t8_bump_T10_lab_retention": 3.936145686904771e-06,
+        "t8_bump_T10_wave_retention": 0.0010373855977708901,
+        "t8_bump_T12_lab_retention": 4.132214856202715e-06,
+        "t8_bump_T12_wave_retention": 0.0009337752395479626,
+        "t8_bump_T16_lab_retention": 4.562539709686286e-06,
+        "t8_bump_T16_wave_retention": 0.0007606042348771158,
+        "t8_bump_T1_lab_retention": 0.00021172321643658787,
+        "t8_bump_T1_wave_retention": 0.003232150413066126,
+        "t8_bump_T2_lab_retention": 4.412387712382504e-05,
+        "t8_bump_T2_wave_retention": 0.002528198256613212,
+        "t8_bump_T3_lab_retention": 3.3342676571956886e-05,
+        "t8_bump_T3_wave_retention": 0.002140439405502126,
+        "t8_bump_T4_lab_retention": 1.3858137525038505e-05,
+        "t8_bump_T4_wave_retention": 0.0017783287833424977,
+        "t8_bump_T6_lab_retention": 3.4794075020674886e-06,
+        "t8_bump_T6_wave_retention": 0.0013298716859567739,
+        "t8_bump_T8_lab_retention": 1.6848260685972671e-06,
+        "t8_bump_T8_wave_retention": 0.0011395684038344456
+      },
+      "qualitative_orderings_preserved": {
+        "high": true,
+        "low": true
+      },
+      "source_report_sha256": "a578099d08fd64c518635f9a9ecaf37098ce9a5209086690148bf272f424aef5"
+    },
+    "comparison_timestep_N512": {
+      "changed_factors": {
+        "dt": [
+          0.0015625,
+          0.00078125
+        ]
+      },
+      "fields": {
+        "t3_balanced": {
+          "reference_unresolved_rms_fraction": 2.259649441771838e-16,
+          "relative_rms_including_unresolved_modes": 1.6122313296612384e-09,
+          "relative_rms_restricted": 1.6122313296612227e-09
+        },
+        "t3_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.1363447437884844e-09,
+          "relative_rms_including_unresolved_modes": 3.045482945746255e-09,
+          "relative_rms_restricted": 2.1704832430863417e-09
+        },
+        "t3_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.228014875397453e-16,
+          "relative_rms_including_unresolved_modes": 1.4948447950652626e-09,
+          "relative_rms_restricted": 1.4948447950652459e-09
+        },
+        "t3_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5479408385416191e-09,
+          "relative_rms_including_unresolved_modes": 2.2082705013259205e-09,
+          "relative_rms_restricted": 1.5749088124082937e-09
+        },
+        "t3_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.2015558102217899e-16,
+          "relative_rms_including_unresolved_modes": 1.7850042313800425e-09,
+          "relative_rms_restricted": 1.7850042313800288e-09
+        },
+        "t3_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.1044012047522324e-09,
+          "relative_rms_including_unresolved_modes": 1.6017364877488304e-09,
+          "relative_rms_restricted": 1.1601110960282108e-09
+        },
+        "t3_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2846463322238485e-16,
+          "relative_rms_including_unresolved_modes": 5.676705657019955e-09,
+          "relative_rms_restricted": 5.676705657019952e-09
+        },
+        "t3_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.4754254067973143e-09,
+          "relative_rms_including_unresolved_modes": 3.5260945683448547e-09,
+          "relative_rms_restricted": 2.5110977600032695e-09
+        },
+        "t3_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.333145479230475e-16,
+          "relative_rms_including_unresolved_modes": 1.47396465468445e-09,
+          "relative_rms_restricted": 1.4739646546844317e-09
+        },
+        "t3_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.7771211398961184e-09,
+          "relative_rms_including_unresolved_modes": 2.529670046719141e-09,
+          "relative_rms_restricted": 1.8002974752530043e-09
+        },
+        "t3_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.265480983568545e-16,
+          "relative_rms_including_unresolved_modes": 1.5527137864358477e-09,
+          "relative_rms_restricted": 1.5527137864358316e-09
+        },
+        "t3_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.2844260257998504e-09,
+          "relative_rms_including_unresolved_modes": 1.829708593150563e-09,
+          "relative_rms_restricted": 1.3031052605591826e-09
+        },
+        "t3_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.331005783086176e-16,
+          "relative_rms_including_unresolved_modes": 2.4671126061819084e-09,
+          "relative_rms_restricted": 2.4671126061818977e-09
+        },
+        "t3_instant": {
+          "reference_unresolved_rms_fraction": 1.8911315815751793e-08,
+          "relative_rms_including_unresolved_modes": 2.695344288935154e-08,
+          "relative_rms_restricted": 1.9205473639211065e-08
+        },
+        "t8_balanced": {
+          "reference_unresolved_rms_fraction": 2.344391908973546e-16,
+          "relative_rms_including_unresolved_modes": 2.8869900919060347e-07,
+          "relative_rms_restricted": 2.886990091906035e-07
+        },
+        "t8_boxcar_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.172708537075829e-09,
+          "relative_rms_including_unresolved_modes": 1.3735874214637287e-05,
+          "relative_rms_restricted": 1.3735874042800306e-05
+        },
+        "t8_boxcar_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2169451530439565e-16,
+          "relative_rms_including_unresolved_modes": 0.000313636497875937,
+          "relative_rms_restricted": 0.000313636497875937
+        },
+        "t8_boxcar_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.2939318827343266e-09,
+          "relative_rms_including_unresolved_modes": 6.8585268950240866e-06,
+          "relative_rms_restricted": 6.8585267729672834e-06
+        },
+        "t8_boxcar_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.2257078810943557e-16,
+          "relative_rms_including_unresolved_modes": 0.0002749732197493737,
+          "relative_rms_restricted": 0.0002749732197493737
+        },
+        "t8_boxcar_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.035881788750373e-10,
+          "relative_rms_including_unresolved_modes": 4.882595387520223e-06,
+          "relative_rms_restricted": 4.882595361550319e-06
+        },
+        "t8_boxcar_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.204336620893377e-16,
+          "relative_rms_including_unresolved_modes": 0.0002569790474489381,
+          "relative_rms_restricted": 0.00025697904744893807
+        },
+        "t8_boxcar_T12_lab": {
+          "reference_unresolved_rms_fraction": 4.5979945727669884e-10,
+          "relative_rms_including_unresolved_modes": 5.569475086054903e-06,
+          "relative_rms_restricted": 5.569475067075061e-06
+        },
+        "t8_boxcar_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.129087061127541e-16,
+          "relative_rms_including_unresolved_modes": 0.00034053412601555897,
+          "relative_rms_restricted": 0.000340534126015559
+        },
+        "t8_boxcar_T16_lab": {
+          "reference_unresolved_rms_fraction": 3.977819980524845e-10,
+          "relative_rms_including_unresolved_modes": 7.844403003294469e-06,
+          "relative_rms_restricted": 7.8444029932089e-06
+        },
+        "t8_boxcar_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.481797212332031e-16,
+          "relative_rms_including_unresolved_modes": 0.0004972004964245235,
+          "relative_rms_restricted": 0.0004972004964245235
+        },
+        "t8_boxcar_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.5708227232290355e-09,
+          "relative_rms_including_unresolved_modes": 8.279049811629336e-06,
+          "relative_rms_restricted": 8.27904966260957e-06
+        },
+        "t8_boxcar_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.2634359017290716e-16,
+          "relative_rms_including_unresolved_modes": 0.00027715765907608217,
+          "relative_rms_restricted": 0.00027715765907608217
+        },
+        "t8_boxcar_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.120693665859127e-09,
+          "relative_rms_including_unresolved_modes": 6.349601897902417e-06,
+          "relative_rms_restricted": 6.3496017990021765e-06
+        },
+        "t8_boxcar_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.2083862838779312e-16,
+          "relative_rms_including_unresolved_modes": 0.00028574105613359885,
+          "relative_rms_restricted": 0.0002857410561335988
+        },
+        "t8_boxcar_T3_lab": {
+          "reference_unresolved_rms_fraction": 9.160662704455917e-10,
+          "relative_rms_including_unresolved_modes": 5.473375574942862e-06,
+          "relative_rms_restricted": 5.4733754982829105e-06
+        },
+        "t8_boxcar_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.3436607335492783e-16,
+          "relative_rms_including_unresolved_modes": 0.00027539365546797365,
+          "relative_rms_restricted": 0.00027539365546797365
+        },
+        "t8_boxcar_T4_lab": {
+          "reference_unresolved_rms_fraction": 7.952753241190919e-10,
+          "relative_rms_including_unresolved_modes": 4.661760595274031e-06,
+          "relative_rms_restricted": 4.661760527438838e-06
+        },
+        "t8_boxcar_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.284752894881826e-16,
+          "relative_rms_including_unresolved_modes": 0.0002457208166761559,
+          "relative_rms_restricted": 0.0002457208166761559
+        },
+        "t8_boxcar_T6_lab": {
+          "reference_unresolved_rms_fraction": 6.498869920648407e-10,
+          "relative_rms_including_unresolved_modes": 4.1712656673983844e-06,
+          "relative_rms_restricted": 4.171265616771891e-06
+        },
+        "t8_boxcar_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.524036633096749e-16,
+          "relative_rms_including_unresolved_modes": 0.00020989834304862673,
+          "relative_rms_restricted": 0.00020989834304862673
+        },
+        "t8_boxcar_T8_lab": {
+          "reference_unresolved_rms_fraction": 5.62599888070533e-10,
+          "relative_rms_including_unresolved_modes": 4.303242488544535e-06,
+          "relative_rms_restricted": 4.303242451767777e-06
+        },
+        "t8_boxcar_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.4417128805336383e-16,
+          "relative_rms_including_unresolved_modes": 0.00024099055233007993,
+          "relative_rms_restricted": 0.00024099055233007998
+        },
+        "t8_bump_T0.5_lab": {
+          "reference_unresolved_rms_fraction": 2.510635984352252e-09,
+          "relative_rms_including_unresolved_modes": 1.1508559302054009e-05,
+          "relative_rms_restricted": 1.1508559028201616e-05
+        },
+        "t8_bump_T0.5_wave": {
+          "reference_unresolved_rms_fraction": 2.214726598018882e-16,
+          "relative_rms_including_unresolved_modes": 0.00033765152204304373,
+          "relative_rms_restricted": 0.0003376515220430438
+        },
+        "t8_bump_T1.5_lab": {
+          "reference_unresolved_rms_fraction": 1.4933042004831162e-09,
+          "relative_rms_including_unresolved_modes": 2.565732695870619e-06,
+          "relative_rms_restricted": 2.5657322613051587e-06
+        },
+        "t8_bump_T1.5_wave": {
+          "reference_unresolved_rms_fraction": 2.414476982644933e-16,
+          "relative_rms_including_unresolved_modes": 0.00027546800334147007,
+          "relative_rms_restricted": 0.0002754680033414701
+        },
+        "t8_bump_T10_lab": {
+          "reference_unresolved_rms_fraction": 5.849071817546805e-10,
+          "relative_rms_including_unresolved_modes": 7.04767828203832e-07,
+          "relative_rms_restricted": 7.04767585488106e-07
+        },
+        "t8_bump_T10_wave": {
+          "reference_unresolved_rms_fraction": 2.22569249380215e-16,
+          "relative_rms_including_unresolved_modes": 0.00020212705692696919,
+          "relative_rms_restricted": 0.0002021270569269692
+        },
+        "t8_bump_T12_lab": {
+          "reference_unresolved_rms_fraction": 5.341672416431989e-10,
+          "relative_rms_including_unresolved_modes": 7.288947965138008e-07,
+          "relative_rms_restricted": 7.288946007827557e-07
+        },
+        "t8_bump_T12_wave": {
+          "reference_unresolved_rms_fraction": 2.526000999083309e-16,
+          "relative_rms_including_unresolved_modes": 0.00020556133237593333,
+          "relative_rms_restricted": 0.0002055613323759333
+        },
+        "t8_bump_T16_lab": {
+          "reference_unresolved_rms_fraction": 4.6287089717505284e-10,
+          "relative_rms_including_unresolved_modes": 8.09840845198467e-07,
+          "relative_rms_restricted": 8.098407129197073e-07
+        },
+        "t8_bump_T16_wave": {
+          "reference_unresolved_rms_fraction": 2.220890769986135e-16,
+          "relative_rms_including_unresolved_modes": 0.00024987862231436316,
+          "relative_rms_restricted": 0.0002498786223143632
+        },
+        "t8_bump_T1_lab": {
+          "reference_unresolved_rms_fraction": 1.8068400919961042e-09,
+          "relative_rms_including_unresolved_modes": 4.390209211973636e-06,
+          "relative_rms_restricted": 4.390208840160915e-06
+        },
+        "t8_bump_T1_wave": {
+          "reference_unresolved_rms_fraction": 2.253820087495217e-16,
+          "relative_rms_including_unresolved_modes": 0.00029385058678901556,
+          "relative_rms_restricted": 0.0002938505867890155
+        },
+        "t8_bump_T2_lab": {
+          "reference_unresolved_rms_fraction": 1.3019579971438722e-09,
+          "relative_rms_including_unresolved_modes": 1.6785011146272803e-06,
+          "relative_rms_restricted": 1.6785006096842492e-06
+        },
+        "t8_bump_T2_wave": {
+          "reference_unresolved_rms_fraction": 2.3471485793816967e-16,
+          "relative_rms_including_unresolved_modes": 0.00027146740073853384,
+          "relative_rms_restricted": 0.0002714674007385338
+        },
+        "t8_bump_T3_lab": {
+          "reference_unresolved_rms_fraction": 1.0657777190884821e-09,
+          "relative_rms_including_unresolved_modes": 1.0093842805282247e-06,
+          "relative_rms_restricted": 1.0093837178671624e-06
+        },
+        "t8_bump_T3_wave": {
+          "reference_unresolved_rms_fraction": 2.496480807732511e-16,
+          "relative_rms_including_unresolved_modes": 0.00027498760388854694,
+          "relative_rms_restricted": 0.00027498760388854694
+        },
+        "t8_bump_T4_lab": {
+          "reference_unresolved_rms_fraction": 9.230462830876772e-10,
+          "relative_rms_including_unresolved_modes": 8.101170391197772e-07,
+          "relative_rms_restricted": 8.101165132607494e-07
+        },
+        "t8_bump_T4_wave": {
+          "reference_unresolved_rms_fraction": 2.295677058068207e-16,
+          "relative_rms_including_unresolved_modes": 0.00025899491489366595,
+          "relative_rms_restricted": 0.000258994914893666
+        },
+        "t8_bump_T6_lab": {
+          "reference_unresolved_rms_fraction": 7.545830527507151e-10,
+          "relative_rms_including_unresolved_modes": 7.211309888490958e-07,
+          "relative_rms_restricted": 7.211305940555371e-07
+        },
+        "t8_bump_T6_wave": {
+          "reference_unresolved_rms_fraction": 2.2872361995129404e-16,
+          "relative_rms_including_unresolved_modes": 0.00021896801410020171,
+          "relative_rms_restricted": 0.0002189680141002018
+        },
+        "t8_bump_T8_lab": {
+          "reference_unresolved_rms_fraction": 6.538301692870844e-10,
+          "relative_rms_including_unresolved_modes": 7.029119293982406e-07,
+          "relative_rms_restricted": 7.029116253103707e-07
+        },
+        "t8_bump_T8_wave": {
+          "reference_unresolved_rms_fraction": 2.3234938824078716e-16,
+          "relative_rms_including_unresolved_modes": 0.00019681463189776663,
+          "relative_rms_restricted": 0.00019681463189776666
+        },
+        "t8_instant": {
+          "reference_unresolved_rms_fraction": 1.9128227892657305e-08,
+          "relative_rms_including_unresolved_modes": 0.00037556327570496795,
+          "relative_rms_restricted": 0.0003755632752178476
+        }
+      },
+      "max_field_relative_rms": 0.0004972004964245235,
+      "max_observable_absolute_change": 2.681033068485661e-05,
+      "observable_absolute_changes": {
+        "t3_boxcar_T0.5_lab_error_balanced": 8.30269186735677e-12,
+        "t3_boxcar_T0.5_lab_error_full": 5.6903620704318314e-11,
+        "t3_boxcar_T0.5_wave_error_balanced": 2.0284884882926235e-12,
+        "t3_boxcar_T0.5_wave_error_full": 4.9229986406884585e-12,
+        "t3_boxcar_T1_lab_error_balanced": 5.324518603799788e-12,
+        "t3_boxcar_T1_lab_error_full": 1.5902057448613505e-11,
+        "t3_boxcar_T1_wave_error_balanced": 3.6970426720017713e-13,
+        "t3_boxcar_T1_wave_error_full": 1.0413231041339621e-11,
+        "t3_boxcar_T2_lab_error_balanced": 3.5405012255296242e-12,
+        "t3_boxcar_T2_lab_error_full": 3.5815239662895237e-12,
+        "t3_boxcar_T2_wave_error_balanced": 3.5605407511241083e-12,
+        "t3_boxcar_T2_wave_error_full": 5.3857099335807845e-11,
+        "t3_bump_T0.5_lab_error_balanced": 7.59742269096364e-12,
+        "t3_bump_T0.5_lab_error_full": 6.89688757493645e-11,
+        "t3_bump_T0.5_wave_error_balanced": 2.45509168550484e-12,
+        "t3_bump_T0.5_wave_error_full": 6.763968291717548e-12,
+        "t3_bump_T1_lab_error_balanced": 7.630340803643776e-12,
+        "t3_bump_T1_lab_error_full": 3.327128850205696e-11,
+        "t3_bump_T1_wave_error_balanced": 1.2325696019388488e-12,
+        "t3_bump_T1_wave_error_full": 5.434333972403893e-12,
+        "t3_bump_T2_lab_error_balanced": 2.8243657412829748e-12,
+        "t3_bump_T2_lab_error_full": 5.8806848279857604e-12,
+        "t3_bump_T2_wave_error_balanced": 1.0971223929345797e-12,
+        "t3_bump_T2_wave_error_full": 2.26475635120571e-11,
+        "t8_boxcar_T0.5_lab_retention": 2.6521212957208995e-05,
+        "t8_boxcar_T0.5_wave_retention": 1.3911868832261476e-05,
+        "t8_boxcar_T1.5_lab_retention": 5.411140539396397e-06,
+        "t8_boxcar_T1.5_wave_retention": 2.3176229338228715e-05,
+        "t8_boxcar_T10_lab_retention": 5.442491964463558e-07,
+        "t8_boxcar_T10_wave_retention": 7.342930870124498e-06,
+        "t8_boxcar_T12_lab_retention": 1.353603674980608e-07,
+        "t8_boxcar_T12_wave_retention": 5.830999241451806e-06,
+        "t8_boxcar_T16_lab_retention": 8.789603006612023e-07,
+        "t8_boxcar_T16_wave_retention": 6.986115745455379e-06,
+        "t8_boxcar_T1_lab_retention": 1.6557462997390804e-05,
+        "t8_boxcar_T1_wave_retention": 1.9982724996370216e-05,
+        "t8_boxcar_T2_lab_retention": 3.347097931816201e-06,
+        "t8_boxcar_T2_wave_retention": 2.62109142827871e-05,
+        "t8_boxcar_T3_lab_retention": 4.098006235908613e-06,
+        "t8_boxcar_T3_wave_retention": 2.37646717023976e-05,
+        "t8_boxcar_T4_lab_retention": 2.2518160011641974e-06,
+        "t8_boxcar_T4_wave_retention": 1.7415868078241026e-05,
+        "t8_boxcar_T6_lab_retention": 1.4151781547455666e-06,
+        "t8_boxcar_T6_wave_retention": 1.4141105791565245e-05,
+        "t8_boxcar_T8_lab_retention": 8.013222997926839e-07,
+        "t8_boxcar_T8_wave_retention": 9.485566504818799e-06,
+        "t8_bump_T0.5_lab_retention": 2.681033068485661e-05,
+        "t8_bump_T0.5_wave_retention": 9.074479567994231e-06,
+        "t8_bump_T1.5_lab_retention": 1.657254329373581e-05,
+        "t8_bump_T1.5_wave_retention": 2.0437570316333975e-05,
+        "t8_bump_T10_lab_retention": 7.779160210250741e-07,
+        "t8_bump_T10_wave_retention": 1.3076088949737219e-05,
+        "t8_bump_T12_lab_retention": 8.903628095323357e-07,
+        "t8_bump_T12_wave_retention": 1.1324229037601441e-05,
+        "t8_bump_T16_lab_retention": 1.2318577965169525e-06,
+        "t8_bump_T16_wave_retention": 8.74052524479918e-06,
+        "t8_bump_T1_lab_retention": 2.3822689926955576e-05,
+        "t8_bump_T1_wave_retention": 1.725697612575683e-05,
+        "t8_bump_T2_lab_retention": 9.314033556195866e-06,
+        "t8_bump_T2_wave_retention": 2.2730939940651673e-05,
+        "t8_bump_T3_lab_retention": 1.4667352157687885e-06,
+        "t8_bump_T3_wave_retention": 2.6330950088526706e-05,
+        "t8_bump_T4_lab_retention": 2.067559298317423e-06,
+        "t8_bump_T4_wave_retention": 2.390304902311069e-05,
+        "t8_bump_T6_lab_retention": 1.772747837448796e-07,
+        "t8_bump_T6_wave_retention": 1.8301314826607573e-05,
+        "t8_bump_T8_lab_retention": 5.406577755738551e-07,
+        "t8_bump_T8_wave_retention": 1.562211854777562e-05
+      },
+      "qualitative_orderings_preserved": {
+        "high": true,
+        "low": true
+      },
+      "source_report_sha256": "61b01b8c88c1bbe03190c4f2a799f4cf214329fe00d7810974fff59c95eb2baa"
+    }
+  },
+  "description": "Spatial, timestep, sampling and quadrature comparisons for the inviscid Figures 7\u20138 field-history products.",
+  "dt": 0.00078125,
+  "quadrature": "normalized composite trapezoid",
+  "saved_cadence": 0.00625,
+  "selected_N": 1024,
+  "selected_products_fields_sha256": "459fe5ab59dd6471a73dcc551222e788737a39491c124459767ad3e59a9b4823",
+  "selected_products_metadata_sha256": "6bbf29454fc75680a11e240d4a537d64fd1b3e56675489fc4ea78d3b9a7fcfbe",
+  "selected_samples_sha256": "dfffcb07fa932236a39a62ae556a75ba8f9a1ab4a7d9100b32ef81d1e1e8afdd"
+}
